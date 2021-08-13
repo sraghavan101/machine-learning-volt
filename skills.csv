@@ -1,0 +1,601 @@
+industry,sub_industry,skills,growth_skills,skills_professionals,job_posts_skills
+IT,Database Management,Operations,1.601,"2,005",623
+IT,Fintech,Operations,1.335,642,583
+IT,Cybersecurity,Operations,1.333,615,184
+IT,Fintech,Big Data,1.323,936,102
+IT,Fintech,Databases,1.298,841,101
+IT,Fintech,Data Analytics,1.106,872,179
+IT,Fintech,Digital Transformation,0.987,765,53
+IT,Fintech,Operations Management,0.936,691,16
+IT,Fintech,Analytical Skills,0.878,1228,735
+IT,Fintech,Engineering,0.82,1332,346
+IT,Fintech,Artificial Intelligence (AI),0.806,1302,41
+IT,Fintech,Supply Chain Management,0.798,748,15
+IT,Fintech,Amazon Web Services (AWS),0.717,697,244
+IT,Fintech,Machine Learning,0.712,1250,140
+IT,CaaS,Digital Transformation,0.692,44,0
+IT,Fintech,Finance,0.689,3560,354
+IT,Fintech,Python (Programming Language),0.663,1705,317
+IT,Fintech,Recruiting,0.602,705,32
+IT,Fintech,Agile Methodologies,0.567,1238,75
+IT,Fintech,Customer Experience,0.562,681,91
+IT,Database Management,Data Analytics,0.56,"1,839",402
+IT,Fintech,Data Analysis,0.552,1645,88
+IT,Fintech,Information Technology,0.533,1013,119
+IT,Fintech,Financial Analysis,0.525,1455,26
+IT,Fintech,Manufacturing,0.512,617,4
+IT,Fintech,Investments,0.501,1001,16
+IT,Fintech,Business Intelligence (BI),0.458,1184,57
+IT,Fintech,Cloud Computing,0.458,1745,372
+IT,Fintech,FinTech,0.457,4508,1134
+IT,Fintech,Cryptocurrency,0.447,1308,580
+IT,Fintech,Corporate Finance,0.444,976,8
+IT,Fintech,Blockchain,0.433,3843,703
+IT,Fintech,Financial Modeling,0.418,1044,14
+IT,Fintech,Digital Marketing,0.417,1387,82
+IT,Fintech,Insurance,0.411,1136,17
+IT,Fintech,SQL,0.408,1746,264
+IT,Database Management,Amazon Web Services (AWS),0.405,"2,578",359
+IT,Fintech,C (Programming Language),0.4,606,4
+IT,Telecommunications,Telecommunications,0.397,6544,126
+IT,Cybersecurity,Python (Programming Language),0.391,658,52
+IT,Fintech,Wealth Management,0.39,706,29
+IT,Fintech,Scrum,0.386,805,40
+IT,Fintech,Customer Relationship Management (CRM),0.37,1587,142
+IT,Fintech,Financial Technology,0.36,887,1511
+IT,Fintech,Stakeholder Management,0.357,635,101
+IT,Fintech,JavaScript,0.357,1210,287
+IT,Fintech,HTML,0.356,845,98
+IT,Fintech,Social Media Marketing,0.353,808,14
+IT,Fintech,Business Process Improvement,0.352,669,8
+IT,Fintech,Cross-functional Team Leadership,0.348,821,41
+IT,Fintech,Business Process,0.347,807,41
+IT,Fintech,User Experience (UX),0.344,739,99
+IT,Fintech,Equities,0.337,753,0
+IT,Fintech,Business Relationship Management,0.335,709,73
+IT,Fintech,Programming,0.33,613,293
+IT,Fintech,Portfolio Management,0.326,1293,32
+IT,IT Hardware,Engineering,0.325,952,27
+IT,Fintech,Economics,0.325,664,0
+IT,Fintech,Financial Services,0.322,2649,291
+IT,Database Management,Python (Programming Language),0.32,"2,514",410
+IT,Fintech,C++,0.311,910,87
+IT,Fintech,Asset Management,0.31,693,12
+IT,Fintech,MySQL,0.309,703,60
+IT,Fintech,Derivatives,0.307,783,8
+IT,Fintech,Software Development Life Cycle (SDLC),0.305,877,102
+IT,Fintech,Banking,0.304,3478,344
+IT,Fintech,Business Analysis,0.299,2337,88
+IT,Fintech,Risk Management,0.299,1926,128
+IT,Fintech,Financial Markets,0.298,744,36
+IT,Fintech,Capital Markets,0.297,935,60
+IT,Fintech,Consulting,0.296,1138,135
+IT,Fintech,Sales Management,0.295,1089,41
+IT,Fintech,Software as a Service (SaaS),0.293,595,93
+IT,Fintech,Private Equity,0.291,656,0
+IT,Fintech,Mergers & Acquisitions (M&A),0.291,958,0
+IT,Fintech,Digital Strategy,0.291,644,9
+IT,Fintech,Java,0.29,1576,316
+IT,Fintech,Software Development,0.286,2013,471
+IT,Fintech,Investment Banking,0.286,963,13
+IT,Cybersecurity,Analytical Skills,0.283,859,205
+IT,Fintech,Market Research,0.283,1124,59
+IT,Fintech,Business Planning,0.282,991,18
+IT,Fintech,Fixed Income,0.273,610,8
+IT,Fintech,Requirements Analysis,0.272,898,13
+IT,Fintech,Program Management,0.258,1149,10
+IT,Database Management,Tableau,0.251,"1,611",135
+IT,Fintech,Solution Architecture,0.249,798,45
+IT,Fintech,New Business Development,0.244,1019,13
+IT,Fintech,Linux,0.244,709,207
+IT,Fintech,Software Project Management,0.243,768,0
+IT,Cybersecurity,Data Analysis,0.24,932,13
+IT,Fintech,Entrepreneurship,0.238,1696,30
+IT,Fintech,Vendor Management,0.238,1005,8
+IT,Database Management,Analytical Skills,0.236,"1,820",743
+IT,Cybersecurity,Agile Methodologies,0.235,534,12
+IT,Fintech,Web Development,0.224,742,28
+IT,Fintech,Enterprise Software,0.222,617,23
+IT,Fintech,Product Development,0.222,1664,131
+IT,Fintech,Analytics,0.222,2215,224
+IT,Fintech,Venture Capital,0.215,667,9
+IT,Fintech,Management Consulting,0.211,1038,11
+IT,Fintech,E-commerce,0.208,1972,121
+IT,Fintech,Product Management,0.202,2332,162
+IT,IT Hardware,Manufacturing,0.198,581,24
+IT,Fintech,Pre-sales,0.198,1063,34
+IT,Database Management,Cybersecurity,0.193,"1,613",102
+IT,Database Management,Big Data,0.191,"2,052",287
+IT,Fintech,Start-ups,0.189,1615,385
+IT,Cybersecurity,Engineering,0.182,2231,200
+IT,Database Management,Data Analysis,0.181,"2,867",128
+IT,Database Management,Agile Methodologies,0.174,"2,321",21
+IT,CaaS,Cybersecurity,0.171,41,0
+IT,Cybersecurity,Customer Experience,0.169,993,65
+IT,Fintech,Strategic Partnerships,0.168,1379,14
+IT,CaaS,Channel Sales,0.164,64,0
+IT,Database Management,Customer Satisfaction,0.163,"1,696",59
+IT,Telecommunications,Product Management,0.161,2658,30
+IT,Database Management,Engineering,0.157,"4,661",390
+IT,Cybersecurity,Network Security,0.151,665,48
+IT,Cybersecurity,Analytics,0.149,826,65
+IT,Fintech,Payments,0.149,1094,0
+IT,Cybersecurity,Adobe Photoshop,0.148,572,2
+IT,Telecommunications,Pre-sales,0.146,2406,21
+IT,Cybersecurity,JavaScript,0.146,607,46
+IT,Cybersecurity,Business Intelligence (BI),0.143,623,10
+IT,Database Management,Programming,0.142,"1,768",270
+IT,Telecommunications,Cloud Computing,0.137,2262,161
+IT,Database Management,Budgeting,0.137,"1,522",13
+IT,IT Hardware,Embedded Systems,0.136,400,0
+IT,Fintech,Product Marketing,0.136,863,48
+IT,Telecommunications,Engineering,0.135,2231,200
+IT,Database Management,Finance,0.135,"2,804",27
+IT,CaaS,Consultative Selling,0.135,42,0
+IT,IT Hardware,Product Development,0.133,390,0
+IT,Telecommunications,Wireless Technologies,0.132,2170,9
+IT,IT Hardware,Product Management,0.131,385,1
+IT,Cybersecurity,Budgeting,0.13,770,19
+IT,Telecommunications,Internet Protocol (IP),0.128,2111,15
+IT,Database Management,Data Mining,0.128,"1,722",592
+IT,Database Management,Operations Management,0.127,"2,118",0
+IT,Cybersecurity,Finance,0.125,1717,31
+IT,IT Hardware,Cross-functional Team Leadership,0.124,364,0
+IT,IT Hardware,Sales Management,0.123,361,2
+IT,Telecommunications,Vendor Management,0.121,1995,18
+IT,Cybersecurity,Human Resources (HR),0.121,684,15
+IT,Cybersecurity,E-commerce,0.118,539,14
+IT,Cybersecurity,Programming,0.118,505,51
+IT,Fintech,Telecommunications,0.117,889,18
+IT,Telecommunications,Sales Management,0.116,1921,23
+IT,Telecommunications,Mobile Devices,0.116,1907,3
+IT,Cybersecurity,Information Technology,0.114,1325,181
+IT,Cybersecurity,Digital Marketing,0.114,789,8
+IT,CaaS,Demand Generation,0.114,49,0
+IT,CaaS,Business Transformation,0.111,40,0
+IT,Cybersecurity,Research and Development (R&D),0.109,510,3
+IT,Telecommunications,Managed Services,0.108,1777,13
+IT,IT Hardware,Failure Analysis,0.107,315,3
+IT,Telecommunications,Troubleshooting,0.105,1730,67
+IT,Telecommunications,Finance,0.104,1717,31
+IT,Telecommunications,Technical Support,0.104,1715,38
+IT,IT Hardware,Six Sigma,0.104,304,0
+IT,CaaS,Customer Experience,0.103,75,0
+IT,Cybersecurity,Banking,0.1,596,7
+IT,Telecommunications,Product Marketing,0.098,1617,15
+IT,Telecommunications,Voice over IP (VoIP),0.096,1577,0
+IT,Cybersecurity,Procurement,0.096,913,12
+IT,IT Hardware,Computer Hardware,0.096,282,0
+IT,IT Hardware,Troubleshooting,0.096,282,5
+IT,Database Management,Information Technology,0.096,"5,729",327
+IT,Database Management,Process Improvement,0.095,"1,983",87
+IT,CaaS,Business Analysis,0.094,58,0
+IT,Telecommunications,Customer Relationship Management (CRM),0.092,1524,34
+IT,Cybersecurity,Market Research,0.092,616,8
+IT,Cybersecurity,Process Improvement,0.091,665,32
+IT,Database Management,Network Administration,0.09,"2,104",70
+IT,Cybersecurity,Network Engineering,0.089,895,10
+IT,Cybersecurity,SQL,0.089,1186,74
+IT,Fintech,Mobile Applications,0.089,700,100
+IT,IT Hardware,Program Management,0.088,259,0
+IT,Telecommunications,Solution Selling,0.087,1441,8
+IT,IT Hardware,Technical Support,0.086,253,0
+IT,Database Management,Data Modeling,0.086,"1,979",239
+IT,Cybersecurity,Risk Management,0.085,560,21
+IT,Telecommunications,Data Center,0.083,1368,29
+IT,Telecommunications,Business Analysis,0.083,1364,12
+IT,Database Management,Network Engineering,0.083,"1,818",92
+IT,CaaS,Recruiting,0.083,52,0
+IT,IT Hardware,Product Marketing,0.082,241,0
+IT,IT Hardware,Firmware,0.082,240,3
+IT,Cybersecurity,Technical Support,0.082,1715,38
+IT,Cybersecurity,Customer Relationship Management (CRM),0.082,1524,34
+IT,Fintech,Payment Systems,0.082,605,0
+IT,Database Management,Java,0.082,"2,729",242
+IT,Database Management,Manufacturing,0.082,"2,295",31
+IT,Telecommunications,Information Technology,0.08,1325,181
+IT,Cybersecurity,Operations Management,0.08,972,4
+IT,IT Hardware,Software Development,0.08,235,5
+IT,IT Hardware,Engineering Management,0.08,235,1
+IT,Telecommunications,Software Development,0.078,1290,123
+IT,Cybersecurity,Sales Operations,0.078,692,11
+IT,IT Hardware,C (Programming Language),0.078,230,1
+IT,IT Hardware,C++,0.078,228,8
+IT,Cybersecurity,C (Programming Language),0.077,513,0
+IT,IT Hardware,Research and Development (R&D),0.076,222,1
+IT,Database Management,Financial Services,0.076,"1,551",35
+IT,Database Management,SQL,0.076,"6,311",561
+IT,Cybersecurity,Forecasting,0.075,639,12
+IT,CaaS,Lead Generation,0.074,73,0
+IT,Telecommunications,GSM,0.074,1213,0
+IT,IT Hardware,Supply Chain Management,0.074,217,2
+IT,Telecommunications,Cisco Systems Products,0.073,1211,15
+IT,Cybersecurity,Java,0.073,1022,77
+IT,Cybersecurity,Manufacturing,0.073,734,7
+IT,Database Management,Analytics,0.073,"4,495",442
+IT,Cybersecurity,Customer Satisfaction,0.072,871,45
+IT,Database Management,"Extract, Transform, Load (ETL)",0.072,"2,379",304
+IT,Telecommunications,Product Development,0.072,1194,46
+IT,Telecommunications,SQL,0.072,1186,74
+IT,Telecommunications,Program Management,0.07,1148,8
+IT,IT Hardware,Python (Programming Language),0.07,206,10
+IT,Cybersecurity,Supply Chain Management,0.069,590,2
+IT,Database Management,Information Security,0.069,"1,940",81
+IT,Cybersecurity,Financial Analysis,0.068,675,9
+IT,IT Hardware,Linux,0.068,199,5
+IT,Database Management,Risk Management,0.068,"2,470",64
+IT,CaaS,Business-to-Business (B2B),0.068,47,0
+IT,Fintech,Credit Cards,0.067,667,15
+IT,Database Management,Infrastructure,0.067,"3,274",427
+IT,CaaS,Sales Process,0.067,112,0
+IT,CaaS,Operations Management,0.067,48,0
+IT,Telecommunications,Network Design,0.066,1083,9
+IT,IT Hardware,Semiconductors,0.066,194,1
+IT,Cybersecurity,C++,0.065,710,15
+IT,Cybersecurity,HTML,0.064,582,3
+IT,IT Hardware,Data Analysis,0.064,188,1
+IT,IT Hardware,New Business Development,0.063,184,0
+IT,Telecommunications,Solution Architecture,0.062,1029,26
+IT,Telecommunications,New Business Development,0.062,1029,3
+IT,Telecommunications,Java,0.062,1022,77
+IT,Database Management,Databases,0.062,"3,472",343
+IT,IT Hardware,Debugging,0.061,180,6
+IT,IT Hardware,Process Improvement,0.061,179,1
+IT,CaaS,E-commerce,0.061,52,0
+IT,Telecommunications,Customer Experience,0.06,993,65
+IT,Telecommunications,Linux,0.06,987,50
+IT,Fintech,Mobile Payments,0.06,1647,130
+IT,Fintech,Mobile Devices,0.06,833,8
+IT,Database Management,Business Intelligence (BI),0.06,"6,119",241
+IT,Database Management,Linux,0.059,"4,357",364
+IT,Telecommunications,Operations Management,0.059,972,4
+IT,IT Hardware,Cloud Computing,0.059,173,1
+IT,Telecommunications,3G,0.058,961,0
+IT,Database Management,Cross-functional Team Leadership,0.058,"1,822",14
+IT,Database Management,Network Security,0.058,"3,825",273
+IT,Telecommunications,Strategic Partnerships,0.057,940,1
+IT,Telecommunications,ITIL,0.057,940,14
+IT,Telecommunications,Data Analysis,0.057,932,13
+IT,IT Hardware,Design of Experiments (DOE),0.057,167,0
+IT,IT Hardware,Solution Selling,0.056,165,0
+IT,Cybersecurity,Sales Management,0.056,1921,23
+IT,Database Management,Software Development,0.056,"5,075",360
+IT,Telecommunications,Procurement,0.055,913,12
+IT,Cybersecurity,MySQL,0.055,515,15
+IT,IT Hardware,Storage,0.055,161,0
+IT,Database Management,Technical Support,0.054,"5,174",177
+IT,Database Management,Procurement,0.054,"1,847",9
+IT,Telecommunications,Network Engineering,0.054,895,10
+IT,Telecommunications,LTE,0.054,883,12
+IT,Telecommunications,Customer Satisfaction,0.053,871,45
+IT,IT Hardware,Java,0.053,155,1
+IT,Database Management,Incident Management,0.053,"2,073",48
+IT,Database Management,System Administration,0.053,"3,151",96
+IT,CaaS,Cross-functional Team Leadership,0.052,122,0
+IT,CaaS,Direct Sales,0.052,204,0
+IT,Telecommunications,Analytical Skills,0.052,859,205
+IT,Telecommunications,Multiprotocol Label Switching (MPLS),0.052,857,9
+IT,Telecommunications,Go-to-market Strategy,0.051,846,1
+IT,Cybersecurity,Business Process Improvement,0.051,572,3
+IT,IT Hardware,Statistical Process Control (SPC),0.051,149,1
+IT,IT Hardware,SQL,0.051,149,5
+IT,Database Management,Customer Relationship Management (CRM),0.051,"3,391",56
+IT,Database Management,Data Warehousing,0.051,"7,210",679
+IT,CaaS,Telepresence,0.051,41,0
+IT,Telecommunications,Analytics,0.05,826,65
+IT,Telecommunications,Cross-functional Team Leadership,0.05,821,10
+IT,Telecommunications,Service Delivery,0.049,816,14
+IT,Telecommunications,Telco,0.049,810,25
+IT,Telecommunications,Broadband,0.049,806,4
+IT,Telecommunications,IT Service Management,0.049,804,10
+IT,Telecommunications,Unified Communications,0.049,800,4
+IT,IT Hardware,Programming,0.049,143,7
+IT,Database Management,Sales Management,0.049,"2,483",28
+IT,Database Management,Windows Server,0.049,"3,770",113
+IT,Database Management,Business Process Improvement,0.049,"1,892",4
+IT,Database Management,Banking,0.049,"3,881",85
+IT,CaaS,Salesforce.com,0.049,108,0
+IT,Telecommunications,Digital Marketing,0.048,789,8
+IT,Cybersecurity,Cloud Computing,0.048,2262,161
+IT,Database Management,Consulting,0.048,"2,631",208
+IT,Database Management,Project Delivery,0.048,"2,399",73
+IT,Database Management,Troubleshooting,0.048,"5,327",395
+IT,Telecommunications,Budgeting,0.047,770,19
+IT,Cybersecurity,Virtualization,0.047,530,14
+IT,IT Hardware,Procurement,0.047,138,0
+IT,CaaS,Sales Management,0.047,315,0
+IT,Cybersecurity,Commissioning,0.046,547,12
+IT,Database Management,Shell Scripting,0.046,"1,638",96
+IT,Telecommunications,Business Planning,0.045,743,6
+IT,Telecommunications,Recruiting,0.045,740,8
+IT,Telecommunications,Switches,0.045,735,10
+IT,Telecommunications,Manufacturing,0.045,734,7
+IT,IT Hardware,Continuous Improvement,0.045,131,4
+IT,IT Hardware,Failure Mode and Effects Analysis (FMEA),0.045,131,0
+IT,Database Management,Microsoft SQL Server,0.045,"3,707",79
+IT,Database Management,Cloud Computing,0.044,"10,519",718
+IT,Database Management,Storage Area Network (SAN),0.044,"1,743",0
+IT,Telecommunications,C++,0.043,710,15
+IT,CaaS,Customer Satisfaction,0.043,72,0
+IT,CaaS,Program Management,0.043,122,0
+IT,Telecommunications,Sales Operations,0.042,692,11
+IT,Telecommunications,Transmission,0.042,691,0
+IT,IT Hardware,Finance,0.042,123,1
+IT,Telecommunications,Human Resources (HR),0.041,684,15
+IT,Telecommunications,Financial Analysis,0.041,675,9
+IT,IT Hardware,MATLAB,0.041,119,0
+IT,Cybersecurity,Linux,0.041,987,50
+IT,Telecommunications,Outsourcing,0.04,666,0
+IT,Telecommunications,Network Security,0.04,665,48
+IT,Telecommunications,Process Improvement,0.04,665,32
+IT,Telecommunications,Python (Programming Language),0.04,658,52
+IT,Telecommunications,Requirements Analysis,0.04,654,1
+IT,Database Management,IT Operations,0.04,"3,382",52
+IT,CaaS,Information Technology,0.04,129,0
+IT,CaaS,Video Conferencing,0.04,78,0
+IT,CaaS,Business Alliances,0.04,183,0
+IT,Telecommunications,Forecasting,0.039,639,12
+IT,IT Hardware,Hard Drives,0.039,113,0
+IT,CaaS,Business Intelligence (BI),0.039,106,0
+IT,Telecommunications,Value-Added Services (VAS),0.038,626,0
+IT,Telecommunications,Business Intelligence (BI),0.038,623,10
+IT,Telecommunications,Unix,0.038,619,6
+IT,IT Hardware,Lean Manufacturing,0.038,112,0
+IT,Database Management,Active Directory,0.038,"3,001",48
+IT,Database Management,Operating Systems,0.038,"1,983",202
+IT,CaaS,Entrepreneurship,0.038,55,0
+IT,CaaS,Firewalls,0.038,55,0
+IT,CaaS,Network Security,0.037,111,0
+IT,CaaS,Customer Relationship Management (CRM),0.037,252,0
+IT,Telecommunications,Market Research,0.037,616,8
+IT,Telecommunications,Operations,0.037,615,184
+IT,Telecommunications,JavaScript,0.037,607,46
+IT,Telecommunications,Internet Protocol Suite (TCP/IP),0.037,605,4
+IT,IT Hardware,Go-to-market Strategy,0.037,108,0
+IT,Cybersecurity,Strategic Partnerships,0.036,940,1
+IT,Database Management,Software Development Life Cycle (SDLC),0.036,"4,187",76
+IT,Database Management,Data Migration,0.036,"1,541",20
+IT,Telecommunications,Business Process,0.036,600,9
+IT,Telecommunications,Mobile Communications,0.036,599,14
+IT,Telecommunications,Banking,0.036,596,7
+IT,Telecommunications,Supply Chain Management,0.036,590,2
+IT,Telecommunications,HTML,0.035,582,3
+IT,Telecommunications,Adobe Photoshop,0.035,572,2
+IT,Telecommunications,Business Process Improvement,0.035,572,3
+IT,IT Hardware,Information Technology,0.035,102,0
+IT,Database Management,Internet Protocol Suite (TCP/IP),0.035,"1,585",26
+IT,Database Management,Business Analysis,0.035,"6,344",33
+IT,Telecommunications,Start-ups,0.034,563,26
+IT,Telecommunications,Risk Management,0.034,560,21
+IT,IT Hardware,Product Launch,0.034,101,1
+IT,IT Hardware,Sales Operations,0.034,100,1
+IT,IT Hardware,Adobe Photoshop,0.034,100,0
+IT,IT Hardware,Quality Assurance,0.034,99,2
+IT,Database Management,Software Project Management,0.034,"2,957",2
+IT,Telecommunications,Enterprise Software,0.033,550,3
+IT,Telecommunications,Commissioning,0.033,547,12
+IT,Telecommunications,Ethernet,0.033,539,2
+IT,Telecommunications,E-commerce,0.033,539,14
+IT,IT Hardware,Vendor Management,0.033,98,0
+IT,IT Hardware,Analytical Skills,0.033,97,16
+IT,IT Hardware,Embedded Software,0.033,97,0
+IT,Database Management,Product Management,0.033,"3,203",4
+IT,Telecommunications,Project Delivery,0.032,535,27
+IT,Telecommunications,Agile Methodologies,0.032,534,12
+IT,Telecommunications,Virtualization,0.032,530,14
+IT,Telecommunications,Firewalls,0.032,520,28
+IT,IT Hardware,Customer Relationship Management (CRM),0.032,95,2
+IT,IT Hardware,Strategic Partnerships,0.032,95,1
+IT,IT Hardware,Operations Management,0.032,93,1
+IT,IT Hardware,Mechanical Engineering,0.032,93,0
+IT,IT Hardware,Hardware,0.032,93,0
+IT,Database Management,Program Management,0.032,"3,859",24
+IT,Database Management,Requirements Analysis,0.032,"4,699",6
+IT,CaaS,Product Development,0.032,96,0
+IT,Telecommunications,Radio Frequency (RF),0.031,518,12
+IT,Telecommunications,MySQL,0.031,515,15
+IT,Telecommunications,C (Programming Language),0.031,513,0
+IT,Telecommunications,Research and Development (R&D),0.031,510,3
+IT,Telecommunications,Direct Sales,0.031,508,2
+IT,Telecommunications,Software Development Life Cycle (SDLC),0.031,507,25
+IT,Telecommunications,Programming,0.031,505,51
+IT,IT Hardware,Business Analysis,0.031,92,0
+IT,IT Hardware,Direct Sales,0.03,88,1
+IT,IT Hardware,Process Engineering,0.03,88,1
+IT,Database Management,Service Delivery,0.03,"3,586",26
+IT,Database Management,Oracle Database,0.03,"3,976",21
+IT,CaaS,Product Management,0.03,408,0
+IT,CaaS,International Sales,0.03,104,0
+IT,IT Hardware,HTML,0.029,85,0
+IT,IT Hardware,JavaScript,0.029,84,1
+IT,Cybersecurity,Software Development,0.029,1290,123
+IT,Cybersecurity,Cross-functional Team Leadership,0.029,821,10
+IT,Database Management,Firewalls,0.029,"3,235",194
+IT,CaaS,Software as a Service (SaaS),0.029,640,0
+IT,CaaS,Voice over IP (VoIP),0.029,640,0
+IT,CaaS,Service Delivery,0.029,143,0
+IT,CaaS,Start-ups,0.029,179,0
+IT,IT Hardware,Operating Systems,0.028,81,2
+IT,IT Hardware,Key Account Management,0.028,81,0
+IT,Database Management,IT Service Management,0.028,"6,879",60
+IT,Database Management,Requirements Gathering,0.028,"1,816",68
+IT,Database Management,IT Management,0.028,"3,863",0
+IT,Database Management,Data Center,0.028,"18,017","1,168"
+IT,CaaS,Mobile Communications,0.028,73,0
+IT,Cybersecurity,Product Development,0.027,1194,46
+IT,Cybersecurity,Telco,0.027,810,25
+IT,Database Management,PL/SQL,0.027,"2,440",80
+IT,CaaS,Partner Relationship Management,0.027,188,0
+IT,CaaS,Internet Protocol (IP),0.027,339,0
+IT,CaaS,Solution Selling,0.027,531,0
+IT,CaaS,Telecommunications,0.027,578,0
+IT,CaaS,Unified Communications,0.027,463,0
+IT,IT Hardware,International Sales,0.027,80,0
+IT,IT Hardware,Pre-sales,0.027,79,0
+IT,Database Management,Software as a Service (SaaS),0.026,"2,711",41
+IT,Database Management,Vendor Management,0.026,"7,981",26
+IT,IT Hardware,Unix,0.026,77,0
+IT,IT Hardware,Business Planning,0.026,75,0
+IT,IT Hardware,Competitive Analysis,0.025,74,0
+IT,IT Hardware,Forecasting,0.025,72,0
+IT,IT Hardware,Machine Learning,0.024,71,1
+IT,IT Hardware,Automation,0.024,71,2
+IT,IT Hardware,Customer Satisfaction,0.024,70,1
+IT,IT Hardware,Digital Marketing,0.024,70,0
+IT,Database Management,Virtualization,0.024,"5,956",162
+IT,Database Management,Unix,0.024,"4,391",78
+IT,CaaS,Managed Services,0.024,507,0
+IT,CaaS,New Business Development,0.024,212,0
+IT,CaaS,Pre-sales,0.024,515,0
+IT,CaaS,Wireless Technologies,0.024,301,0
+IT,CaaS,IT Management,0.024,43,0
+IT,IT Hardware,Electrical Engineering,0.023,68,0
+IT,IT Hardware,AutoCAD,0.023,67,0
+IT,IT Hardware,Analytics,0.023,67,13
+IT,IT Hardware,Budgeting,0.023,66,1
+IT,Database Management,Servers,0.023,"3,834",0
+IT,Database Management,VMware,0.023,"4,273",159
+IT,Database Management,Network Design,0.023,"2,006",62
+IT,Database Management,IT Strategy,0.023,"4,405",27
+IT,CaaS,Session Initiation Protocol (SIP),0.023,131,0
+IT,Cybersecurity,Product Management,0.022,2658,30
+IT,Database Management,Storage,0.022,"2,404",0
+IT,Database Management,Disaster Recovery,0.022,"5,133",12
+IT,CaaS,Sales Enablement,0.022,93,0
+IT,IT Hardware,Recruiting,0.022,65,0
+IT,IT Hardware,SOLIDWORKS,0.022,64,0
+IT,IT Hardware,System Administration,0.021,63,0
+IT,IT Hardware,Business Process Improvement,0.021,63,0
+IT,IT Hardware,Oracle Database,0.021,63,0
+IT,IT Hardware,Algorithms,0.021,63,5
+IT,IT Hardware,Inventory Management,0.021,63,3
+IT,IT Hardware,JMP,0.021,62,0
+IT,IT Hardware,Market Research,0.021,62,1
+IT,IT Hardware,Telecommunications,0.021,62,0
+IT,IT Hardware,Product Design,0.021,62,0
+IT,IT Hardware,C#,0.021,62,2
+IT,IT Hardware,Business Intelligence (BI),0.021,61,0
+IT,IT Hardware,Artificial Intelligence (AI),0.021,61,0
+IT,Database Management,Switches,0.021,"2,312",110
+IT,IT Hardware,Start-ups,0.02,60,1
+IT,IT Hardware,Preventive Maintenance,0.02,60,7
+IT,IT Hardware,Serial ATA (SATA),0.02,59,2
+IT,IT Hardware,Minitab,0.02,59,0
+IT,IT Hardware,Data Center,0.02,59,0
+IT,IT Hardware,Enterprise Software,0.02,59,0
+IT,IT Hardware,Application-Specific Integrated Circuits (ASIC),0.02,58,0
+IT,IT Hardware,Consumer Electronics,0.02,58,0
+IT,Database Management,Solution Architecture,0.02,"5,901",125
+IT,Database Management,ITIL,0.02,"7,848",125
+IT,CaaS,IVR,0.02,50,0
+IT,CaaS,Vendor Management,0.02,257,0
+IT,Cybersecurity,Business Analysis,0.019,1364,12
+IT,Database Management,Internet Protocol (IP),0.019,"1,799",38
+IT,Database Management,Cisco Systems Products,0.019,"4,827",116
+IT,Database Management,Enterprise Architecture,0.019,"2,820",9
+IT,Cybersecurity,IT Service Management,0.018,804,10
+IT,Database Management,Professional Services,0.018,"2,014",67
+IT,Database Management,Business Process,0.018,"3,156",40
+IT,Database Management,Voice over IP (VoIP),0.018,"1,617",7
+IT,CaaS,Telephony,0.018,111,0
+IT,CaaS,Consulting,0.018,112,0
+IT,CaaS,GSM,0.018,56,0
+IT,CaaS,Cloud Computing,0.018,580,0
+IT,CaaS,Co-location,0.018,58,0
+IT,Cybersecurity,Direct Sales,0.017,508,2
+IT,Database Management,Solution Selling,0.017,"4,013",23
+IT,Database Management,Routers,0.017,"1,566",96
+IT,CaaS,Data Center,0.017,351,0
+IT,Database Management,Telecommunications,0.016,"4,635",53
+IT,CaaS,Contact Centers,0.016,128,0
+IT,CaaS,Broadband,0.016,64,0
+IT,CaaS,Strategic Partnerships,0.016,323,0
+IT,CaaS,Go-to-market Strategy,0.015,399,0
+IT,CaaS,IT Service Management,0.015,137,0
+IT,Database Management,Pre-sales,0.014,"7,423",30
+IT,CaaS,Value-Added Services (VAS),0.014,70,0
+IT,Cybersecurity,Product Marketing,0.013,1617,15
+IT,Cybersecurity,Solution Selling,0.013,1441,8
+IT,Cybersecurity,Start-ups,0.013,563,26
+IT,Database Management,Go-to-market Strategy,0.013,"1,906",2
+IT,Database Management,Managed Services,0.013,"4,092",21
+IT,CaaS,Mobile Devices,0.013,305,0
+IT,CaaS,Enterprise Software,0.013,395,0
+IT,CaaS,Business Planning,0.013,79,0
+IT,CaaS,Cisco Systems Products,0.013,242,0
+IT,Cybersecurity,Transmission,0.012,691,0
+IT,CaaS,Outsourcing,0.012,171,0
+IT,CaaS,Professional Services,0.012,350,0
+IT,CaaS,Multiprotocol Label Switching (MPLS),0.012,175,0
+IT,Cybersecurity,New Business Development,0.011,1029,3
+IT,Cybersecurity,Recruiting,0.011,740,8
+IT,Cybersecurity,Radio Frequency (RF),0.011,518,12
+IT,CaaS,Telco,0.011,94,0
+IT,Cybersecurity,Troubleshooting,0.01,1730,67
+IT,Database Management,Enterprise Software,0.01,"4,025",37
+IT,CaaS,Key Account Management,0.01,104,0
+IT,Cybersecurity,Broadband,0.009,806,4
+IT,Database Management,Outsourcing,0.009,"3,224",0
+IT,CaaS,Product Marketing,0.009,217,0
+IT,CaaS,Network Design,0.009,116,0
+IT,CaaS,Sales Operations,0.008,132,0
+IT,Cybersecurity,Internet Protocol Suite (TCP/IP),0.007,605,4
+IT,CaaS,Solution Architecture,0.006,178,0
+IT,Cybersecurity,Mobile Communications,0.005,599,14
+IT,Cybersecurity,Software Development Life Cycle (SDLC),0.004,507,25
+IT,Cybersecurity,Project Delivery,0.003,535,27
+IT,Cybersecurity,Telecommunications,0,6544,126
+IT,CaaS,Virtualization,0.00%,158,0
+IT,CaaS,Analytics,0.00%,98,0
+IT,CaaS,ITIL,0.00%,96,0
+IT,CaaS,Wide Area Network (WAN),0.00%,92,0
+IT,CaaS,Network Architecture,0.00%,89,0
+IT,CaaS,IT Strategy,0.00%,85,0
+IT,CaaS,Software Development,0.00%,83,0
+IT,CaaS,Technical Support,0.00%,82,0
+IT,CaaS,Ethernet,0.00%,80,0
+IT,CaaS,Mobile Technology,0.00%,76,0
+IT,CaaS,Avaya Products,0.00%,69,0
+IT,CaaS,Storage,0.00%,68,0
+IT,CaaS,Competitive Analysis,0.00%,61,0
+IT,CaaS,VMware,0.00%,55,0
+IT,CaaS,Banking,0.00%,54,0
+IT,CaaS,Disaster Recovery,0.00%,49,0
+IT,CaaS,Routing,0.00%,44,0
+IT,CaaS,Internet Protocol Suite (TCP/IP),0.00%,44,0
+IT,CaaS,Financial Services,0.00%,44,0
+IT,CaaS,Finance,0.00%,44,0
+IT,CaaS,Business Process,0.00%,43,0
+IT,CaaS,Enterprise Architecture,0.00%,42,0
+IT,Cybersecurity,Go-to-market Strategy,-0.002,846,1
+IT,Cybersecurity,Program Management,-0.003,1148,8
+IT,Cybersecurity,Business Process,-0.007,600,9
+IT,Cybersecurity,Firewalls,-0.007,520,28
+IT,Cybersecurity,Voice over IP (VoIP),-0.01,1577,0
+IT,Cybersecurity,Unified Communications,-0.01,800,4
+IT,Cybersecurity,Cisco Systems Products,-0.01,1211,15
+IT,Cybersecurity,Business Planning,-0.012,743,6
+IT,Cybersecurity,Outsourcing,-0.013,666,0
+IT,Cybersecurity,Service Delivery,-0.015,816,14
+IT,Cybersecurity,LTE,-0.016,883,12
+IT,Cybersecurity,Vendor Management,-0.016,1995,18
+IT,Cybersecurity,Ethernet,-0.017,539,2
+IT,Cybersecurity,Switches,-0.019,735,10
+IT,Cybersecurity,3G,-0.02,961,0
+IT,Cybersecurity,Multiprotocol Label Switching (MPLS),-0.021,857,9
+IT,Cybersecurity,Internet Protocol (IP),-0.022,2111,15
+IT,Cybersecurity,Value-Added Services (VAS),-0.022,626,0
+IT,Cybersecurity,GSM,-0.023,1213,0
+IT,Cybersecurity,Mobile Devices,-0.023,1907,3
+IT,Cybersecurity,Wireless Technologies,-0.024,2170,9
+IT,Cybersecurity,Data Center,-0.024,1368,29
+IT,Cybersecurity,Requirements Analysis,-0.03,654,1
+IT,Cybersecurity,Pre-sales,-0.031,2406,21
+IT,Cybersecurity,Network Design,-0.033,1083,9
+IT,Cybersecurity,Enterprise Software,-0.035,550,3
+IT,Cybersecurity,Managed Services,-0.039,1777,13
+IT,Cybersecurity,Unix,-0.045,619,6
+IT,Cybersecurity,ITIL,-0.046,940,14
+IT,Cybersecurity,Solution Architecture,-0.05,1029,26
+IT,CaaS,Engineering,,87,0
+IT,CaaS,Manufacturing,,62,0

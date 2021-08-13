@@ -1,0 +1,183 @@
+industry,sub_industry,functions,growth_functions,professionals_functions,job_posts
+IT,IT Software,Real Estate,0.2,48,0
+IT,IT Software,Entrepreneurship,0.179,415,2
+IT,IT Software,Community and Social Services,0.143,295,7
+IT,IT Software,Military and Protective Services,0.104,74,5
+IT,IT Software,Healthcare Services,0.098,101,1
+IT,IT Software,Research,0.097,499,16
+IT,IT Software,Support,0.094,1009,57
+IT,IT Software,Marketing,0.064,1283,59
+IT,IT Software,Business Development,0.063,4591,85
+IT,IT Software,Education,0.06,777,1
+IT,IT Software,Product Management,0.052,427,26
+IT,IT Software,Legal,0.051,185,5
+IT,IT Software,Program and Project Management,0.048,1190,45
+IT,IT Software,Media and Communication,0.047,402,10
+IT,IT Software,Sales,0.041,4040,295
+IT,IT Software,Arts and Design,0.039,633,20
+IT,IT Software,Operations,0.032,1804,65
+IT,IT Software,Consulting,0.027,1778,52
+IT,IT Software,Human Resources,0.025,932,34
+IT,IT Software,Engineering,0.02,5814,345
+IT,IT Software,Information Technology,0.008,3713,169
+IT,IT Software,Quality Assurance,0.005,220,12
+IT,IT Software,Finance,0.002,817,19
+IT,IT Software,Accounting,0,408,7
+IT,IT Software,Administrative,-0.002,624,17
+IT,IT Software,Purchasing,-0.016,60,0
+IT,IT Hardware,Research,0.094,58,0
+IT,IT Hardware,Finance,0.091,48,0
+IT,IT Hardware,Purchasing,0.044,119,1
+IT,IT Hardware,Consulting,0.043,49,0
+IT,IT Hardware,Community and Social Services,0.04,26,0
+IT,IT Hardware,Human Resources,0.038,83,0
+IT,IT Hardware,Operations,0.033,504,14
+IT,IT Hardware,Entrepreneurship,0.031,33,0
+IT,IT Hardware,Product Management,0.025,81,1
+IT,IT Hardware,Sales,0.017,609,9
+IT,IT Hardware,Information Technology,0.014,505,2
+IT,IT Hardware,Support,0.01,106,1
+IT,IT Hardware,Business Development,0.002,547,6
+IT,IT Hardware,Administrative,0,136,2
+IT,IT Hardware,Program and Project Management,0,121,2
+IT,IT Hardware,Education,0,54,0
+IT,IT Hardware,Media and Communication,0,52,0
+IT,IT Hardware,Healthcare Services,0,13,1
+IT,IT Hardware,Legal,0,10,0
+IT,IT Hardware,Marketing,-0.008,130,5
+IT,IT Hardware,Quality Assurance,-0.009,105,2
+IT,IT Hardware,Engineering,-0.011,1752,24
+IT,IT Hardware,Accounting,-0.033,58,2
+IT,IT Hardware,Arts and Design,-0.035,55,0
+IT,IT Hardware,Military and Protective Services,-0.2,12,0
+IT,IT Hardware,Real Estate,-0.5,1,0
+IT,Telecommunications,Entrepreneurship,0.133,128,0
+IT,Telecommunications,Research,0.071,286,3
+IT,Telecommunications,Community and Social Services,0.053,159,2
+IT,Telecommunications,Arts and Design,0.031,331,16
+IT,Telecommunications,Human Resources,0.013,720,15
+IT,Telecommunications,Marketing,0.011,1049,17
+IT,Telecommunications,Finance,0.008,771,28
+IT,Telecommunications,Military and Protective Services,0.008,130,3
+IT,Telecommunications,Business Development,0.006,2899,57
+IT,Telecommunications,Engineering,0.005,4065,204
+IT,Telecommunications,Healthcare Services,0,50,0
+IT,Telecommunications,Operations,-0.001,1738,61
+IT,Telecommunications,Accounting,-0.005,394,7
+IT,Telecommunications,Sales,-0.005,3727,84
+IT,Telecommunications,Administrative,-0.005,585,13
+IT,Telecommunications,Consulting,-0.008,501,5
+IT,Telecommunications,Program and Project Management,-0.011,996,28
+IT,Telecommunications,Support,-0.017,1222,22
+IT,Telecommunications,Media and Communication,-0.02,200,6
+IT,Telecommunications,Information Technology,-0.024,3264,113
+IT,Telecommunications,Product Management,-0.026,492,24
+IT,Telecommunications,Quality Assurance,-0.026,148,6
+IT,Telecommunications,Education,-0.032,245,0
+IT,Telecommunications,Legal,-0.033,207,14
+IT,Telecommunications,Purchasing,-0.042,159,5
+IT,Telecommunications,Real Estate,-0.053,54,4
+IT,Cybersecurity,Healthcare Services,0.3,13,0
+IT,Cybersecurity,Legal,0.15,23,2
+IT,Cybersecurity,Education,0.145,142,0
+IT,Cybersecurity,Real Estate,0.143,8,0
+IT,Cybersecurity,Community and Social Services,0.132,43,0
+IT,Cybersecurity,Sales,0.104,788,68
+IT,Cybersecurity,Support,0.099,111,9
+IT,Cybersecurity,Program and Project Management,0.074,130,5
+IT,Cybersecurity,Media and Communication,0.052,61,2
+IT,Cybersecurity,Accounting,0.047,45,0
+IT,Cybersecurity,Engineering,0.046,659,39
+IT,Cybersecurity,Information Technology,0.038,1266,101
+IT,Cybersecurity,Business Development,0.035,764,15
+IT,Cybersecurity,Marketing,0.034,150,10
+IT,Cybersecurity,Consulting,0.027,191,8
+IT,Cybersecurity,Human Resources,0.026,117,5
+IT,Cybersecurity,Entrepreneurship,0.025,82,0
+IT,Cybersecurity,Arts and Design,0.024,87,1
+IT,Cybersecurity,Product Management,0.023,44,1
+IT,Cybersecurity,Research,0,55,0
+IT,Cybersecurity,Quality Assurance,0,17,1
+IT,Cybersecurity,Purchasing,0,9,0
+IT,Cybersecurity,Operations,-0.007,297,3
+IT,Cybersecurity,Finance,-0.013,75,1
+IT,Cybersecurity,Administrative,-0.067,97,0
+IT,Cybersecurity,Military and Protective Services,-0.149,74,6
+IT,Fintech,Healthcare Services,1,20,1
+IT,Fintech,Support,0.762,111,54
+IT,Fintech,Quality Assurance,0.722,31,21
+IT,Fintech,Purchasing,0.667,5,0
+IT,Fintech,Education,0.647,313,12
+IT,Fintech,Legal,0.647,219,101
+IT,Fintech,Human Resources,0.553,132,65
+IT,Fintech,Accounting,0.541,94,45
+IT,Fintech,Operations,0.508,623,81
+IT,Fintech,Finance,0.438,919,164
+IT,Fintech,Engineering,0.339,1042,601
+IT,Fintech,Administrative,0.339,75,25
+IT,Fintech,Military and Protective Services,0.311,59,8
+IT,Fintech,Program and Project Management,0.304,300,41
+IT,Fintech,Entrepreneurship,0.277,424,1
+IT,Fintech,Information Technology,0.267,797,213
+IT,Fintech,Community and Social Services,0.259,185,7
+IT,Fintech,Business Development,0.255,2951,154
+IT,Fintech,Research,0.243,261,78
+IT,Fintech,Media and Communication,0.232,191,34
+IT,Fintech,Consulting,0.218,402,16
+IT,Fintech,Product Management,0.208,505,145
+IT,Fintech,Sales,0.185,674,155
+IT,Fintech,Arts and Design,0.179,171,74
+IT,Fintech,Marketing,0.161,454,147
+IT,Fintech,Real Estate,-0.25,21,1
+IT,Cloud Computing,Research,0.447,769,77
+IT,Cloud Computing,Administrative,0.427,235,39
+IT,Cloud Computing,Real Estate,0.379,61,4
+IT,Cloud Computing,Media and Communication,0.339,372,13
+IT,Cloud Computing,Quality Assurance,0.316,229,55
+IT,Cloud Computing,Healthcare Services,0.304,61,15
+IT,Cloud Computing,Engineering,0.275,9986,2688
+IT,Cloud Computing,Education,0.245,844,19
+IT,Cloud Computing,Community and Social Services,0.223,422,18
+IT,Cloud Computing,Information Technology,0.21,9293,1545
+IT,Cloud Computing,Product Management,0.197,882,43
+IT,Cloud Computing,Finance,0.193,769,45
+IT,Cloud Computing,Legal,0.186,221,25
+IT,Cloud Computing,Entrepreneurship,0.183,482,2
+IT,Cloud Computing,Support,0.177,1025,77
+IT,Cloud Computing,Program and Project Management,0.165,1935,137
+IT,Cloud Computing,Arts and Design,0.162,635,62
+IT,Cloud Computing,Consulting,0.144,2106,98
+IT,Cloud Computing,Operations,0.126,2355,458
+IT,Cloud Computing,Military and Protective Services,0.122,240,25
+IT,Cloud Computing,Accounting,0.121,161,10
+IT,Cloud Computing,Marketing,0.111,1314,61
+IT,Cloud Computing,Business Development,0.107,6980,193
+IT,Cloud Computing,Sales,0.05,5842,638
+IT,Cloud Computing,Human Resources,0.038,863,15
+IT,Cloud Computing,Purchasing,-0.036,63,8
+IT,Networks,Legal,0.423,80,3
+IT,Networks,Community and Social Services,0.239,270,33
+IT,Networks,Healthcare Services,0.227,59,0
+IT,Networks,Research,0.216,218,0
+IT,Networks,Quality Assurance,0.214,74,4
+IT,Networks,Education,0.214,520,18
+IT,Networks,Media and Communication,0.206,212,3
+IT,Networks,Administrative,0.186,186,11
+IT,Networks,Real Estate,0.178,55,1
+IT,Networks,Entrepreneurship,0.15,160,0
+IT,Networks,Marketing,0.14,414,0
+IT,Networks,Operations,0.131,1400,45
+IT,Networks,Engineering,0.12,3670,104
+IT,Networks,Business Development,0.114,2688,214
+IT,Networks,Finance,0.101,446,16
+IT,Networks,Product Management,0.089,227,4
+IT,Networks,Support,0.087,594,11
+IT,Networks,Arts and Design,0.084,249,1
+IT,Networks,Consulting,0.079,812,10
+IT,Networks,Human Resources,0.076,580,99
+IT,Networks,Program and Project Management,0.074,1035,23
+IT,Networks,Information Technology,0.068,9908,1324
+IT,Networks,Sales,0.061,2126,375
+IT,Networks,Purchasing,0.048,47,2
+IT,Networks,Accounting,0.014,81,0
+IT,Networks,Military and Protective Services,-0.04,211,4

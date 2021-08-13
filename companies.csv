@@ -1,0 +1,1101 @@
+industry,sub_industry,company,no_people,growth_rate,job_posts,attrition_rate
+IT,IT Software,Microsoft,1667,0.023,53,0.119
+IT,IT Software,SAP,1450,-0.029,9,0.09
+IT,IT Software,Autodesk,660,0.058,12,0.062
+IT,IT Software,VMware,441,0.04,94,0.143
+IT,IT Software,Symantec,270,-0.137,0,0.196
+IT,IT Software,Murex,246,0.025,7,0.029
+IT,IT Software,Tableau Software,208,0.072,13,0.119
+IT,IT Software,Zendesk,198,0.1,37,0.138
+IT,IT Software,SAS,192,0.049,4,0.149
+IT,IT Software,Red Hat,191,-0.015,10,0.197
+IT,IT Software,PSA Inc.,174,0.081,0,0.024
+IT,IT Software,ServiceNow,169,0.3,8,0.087
+IT,IT Software,Acronis,166,0.145,28,0.09
+IT,IT Software,Adobe,159,0.006,10,0.139
+IT,IT Software,Citrix,143,0.109,7,0.125
+IT,IT Software,Infor,134,0.008,2,0.067
+IT,IT Software,"DBS, Inc.",128,0.085,0,0.016
+IT,IT Software,Temenos,125,-0.088,11,0.137
+IT,IT Software,ITE,124,-0.008,0,0.008
+IT,IT Software,Nutanix,124,0.016,6,0.106
+IT,IT Software,Veritas Technologies LLC,122,-0.076,8,0.181
+IT,IT Software,Micro Focus,121,0.034,6,0.118
+IT,IT Software,AI Singapore,121,0.592,0,0.365
+IT,IT Software,Workday,107,0.081,7,0.126
+IT,IT Software,Anacle Systems Limited,105,0.019,6,0.115
+IT,IT Software,SS&C Technologies,104,0.13,0,0.092
+IT,IT Software,Dassault Systèmes,102,-0.019,9,0.087
+IT,IT Software,Envision Digital,101,0.98,0,0.132
+IT,IT Software,AVEVA,95,0.105,2,0.011
+IT,IT Software,Deskera,95,-0.234,0,0.393
+IT,IT Software,NetSuite,92,0.034,0,0.133
+IT,IT Software,Splunk,91,0.282,10,0.062
+IT,IT Software,OpenText,87,0.048,5,0.082
+IT,IT Software,AxiomSL,86,0,3,0.081
+IT,IT Software,Sage,83,0.012,1,0.061
+IT,IT Software,Unit4,78,-0.037,0,0.164
+IT,IT Software,Workato,76,0.727,48,0.1
+IT,IT Software,KOEI TECMO Singapore Pte Ltd,74,0.057,0,0.167
+IT,IT Software,NICE Ltd,72,0.014,1,0.07
+IT,IT Software,Aspen Technology,72,0.043,6,0.085
+IT,IT Software,ViSenze - AI for Visual Commerce,71,-0.165,10,0.359
+IT,IT Software,Trend Micro,69,0.045,0,0.015
+IT,IT Software,ACI Worldwide,68,-0.029,1,0.029
+IT,IT Software,Pure Storage,68,0.046,4,0.165
+IT,IT Software,SAP Concur,67,0.098,0,0.047
+IT,IT Software,BCS Information Systems Private Limited,67,0,0,0.015
+IT,IT Software,SenseTime 商汤科技,65,0.182,1,0.283
+IT,IT Software,Cloudera,65,0.032,5,0.266
+IT,IT Software,Any Service Company,64,0.455,0,0
+IT,IT Software,Qlik,61,-0.047,1,0.176
+IT,IT Software,Bentley Systems,58,0.208,1,0.075
+IT,IT Software,Quest Software,58,-0.065,0,0.167
+IT,IT Software,OutSystems,57,0.163,4,0.038
+IT,IT Software,TIBCO,57,0.018,1,0.195
+IT,IT Software,Unity Technologies,56,0.143,3,0.114
+IT,IT Software,Synopsys Inc,55,0,3,0.091
+IT,IT Software,AvePoint,54,0.149,9,0.119
+IT,IT Software,Genesys,50,0.02,0,0.02
+IT,IT Software,SolarWinds,48,0,0,0.104
+IT,IT Software,Thomsons Online Benefits,47,-0.06,0,0.144
+IT,IT Software,CyberArk,47,0.27,2,0.143
+IT,IT Software,Ramco Systems,47,-0.078,0,0.122
+IT,IT Software,i-Sprint Innovations,46,0.045,5,0.089
+IT,IT Software,Perx Technologies,46,0.07,8,0.36
+IT,IT Software,SAP Ariba,44,-0.12,0,0.17
+IT,IT Software,IFS,44,0.1,0,0.167
+IT,IT Software,Medisys Innovation Pte Ltd,44,-0.022,0,0.112
+IT,IT Software,FICO,43,-0.065,2,0.09
+IT,IT Software,BlackBerry,43,0.075,0,0.048
+IT,IT Software,Dathena,43,0.344,7,0.24
+IT,IT Software,Riverbed Technology,42,-0.045,0,0.209
+IT,IT Software,SimCorp,42,0.4,2,0.028
+IT,IT Software,SWAT Mobility,41,0.051,0,0.15
+IT,IT Software,HReasily,41,0.64,1,0.152
+IT,IT Software,EON Reality,41,-0.047,0,0.19
+IT,IT Software,Epic,40,0.026,1,0.051
+IT,IT Software,Workforce Optimizer - AI Enabled WFM,40,0.143,8,0.24
+IT,IT Software,Siemens Digital Industries Software,40,0.081,0,0.104
+IT,IT Software,Xero,40,0.212,1,0.164
+IT,IT Software,In Mind Cloud,39,0.393,2,0.09
+IT,IT Software,Qualtrics,39,0.444,5,0.03
+IT,IT Software,Software AG,38,0.027,4,0.133
+IT,IT Software,UiPath,38,0,2,0.132
+IT,IT Software,Tookitaki,37,-0.075,0,0.182
+IT,IT Software,Blue Prism,37,0.121,2,0.086
+IT,IT Software,SensorFlow,37,0.028,0,0.466
+IT,IT Software,Talend,35,0.522,3,0.103
+IT,IT Software,Elastic,35,0,5,0.171
+IT,IT Software,Connected Freight,35,0.4,15,0.133
+IT,IT Software,Confluent,35,2.182,15,0
+IT,IT Software,Hexagon PPM,35,0.25,2,0.063
+IT,IT Software,Automation Anywhere,35,-0.375,2,0.835
+IT,IT Software,MuleSoft,34,0.259,7,0.066
+IT,IT Software,Datadog,34,1.429,3,0.083
+IT,IT Software,Cialfo,31,0.292,15,0.109
+IT,IT Software,Thought Machine,30,5,0,0
+IT,IT Software,Mentor Graphics,29,0,0,0
+IT,IT Software,BasisAI,26,0.238,0,0.213
+IT,IT Software,Saleswhale,25,-0.375,0,0.492
+IT,IT Software,Machine Learning and Data Analytics Lab at NTU EEE,25,3.167,0,0.194
+IT,IT Hardware,Seagate Technology,"2,136",0.009,40,3.80%
+IT,IT Hardware,"HGST, a Western Digital brand",230,0.40%,0,0.00%
+IT,IT Hardware,Western Digital,117,0.009,0,5.20%
+IT,IT Hardware,ASUS,108,0.038,2,2.80%
+IT,IT Hardware,Creative Labs,82,7.90%,0,2.50%
+IT,IT Hardware,Fusion Worldwide,77,0.116,3,6.80%
+IT,IT Hardware,Blackmagic Design,77,11.60%,1,8.20%
+IT,IT Hardware,Maxtor,65,1.60%,0,0.00%
+IT,IT Hardware,Acer,55,0.00%,0,5.50%
+IT,IT Hardware,Converge,51,2.00%,0,4.00%
+IT,IT Hardware,NVIDIA,47,17.50%,2,9.20%
+IT,IT Hardware,Intermec by Honeywell,38,0.027,0,0.00%
+IT,IT Hardware,seagate,38,8.60%,0,0.00%
+IT,IT Hardware,"Seiko Epson Corporation, Japan",32,0.032,0,0.00%
+IT,IT Hardware,Technoprobe,26,0.04,1,0.00%
+IT,IT Hardware,Cavu Corp,25,8.70%,0,4.20%
+IT,IT Hardware,Xyratex,25,0.00%,0,0.00%
+IT,IT Hardware,Advantech,22,0.00%,0,0.00%
+IT,IT Hardware,KARL STORZ,22,0.00%,0,0.00%
+IT,IT Hardware,NewPower Worldwide,21,0.167,0,15.40%
+IT,IT Hardware,Kobian Pte Ltd,17,6.30%,0,6.10%
+IT,IT Hardware,Kaira Global,16,0.00%,0,0.00%
+IT,IT Hardware,ASUS Technology Pte. Ltd.,10,0.00%,0,
+IT,IT Hardware,eSys Technologies,9,0.00%,0,
+IT,IT Hardware,Gateway,9,0.00%,0,
+IT,IT Hardware,Strontium Technology Pte Ltd,9,0.00%,0,
+IT,IT Hardware,SATO Global Business Services Pte. Ltd.,9,28.60%,0,
+IT,IT Hardware,JCY HDD Technology Sdn Bhd,7,0.167,0,
+IT,IT Hardware,Evolis,6,-14.30%,0,
+IT,IT Hardware,Xerox International Partners,6,0.00%,0,
+IT,IT Hardware,Dell Global B.V.,6,0.00%,0,
+IT,IT Hardware,Nidec Legend Pte Ltd.,6,0.00%,0,
+IT,IT Hardware,NCS,5,0.00%,0,
+IT,IT Hardware,PCS-CTS,5,0.00%,0,
+IT,IT Hardware,Wacom Technology Corp.,5,-16.70%,0,
+IT,IT Hardware,Dascom,5,0.00%,0,
+IT,IT Hardware,Showa Denko Singapore,5,0.00%,0,
+IT,IT Hardware,Galaxy,4,0.00%,0,
+IT,IT Hardware,CONVERGENT SYSTEMS LTD.,4,0.00%,0,
+IT,IT Hardware,Apple,4,0.00%,0,
+IT,IT Hardware,SATO,4,0.00%,0,
+IT,IT Hardware,Stealth,4,33.30%,0,
+IT,IT Hardware,Acepak Technology Pte. Ltd.,4,0.00%,0,
+IT,IT Hardware,SAE,4,0.333,0,
+IT,IT Hardware,Elo Touch Solutions,4,33.30%,0,
+IT,IT Hardware,Any Incorporated,3,0.00%,0,
+IT,IT Hardware,SteelSeries,3,2,0,
+IT,IT Hardware,Aftershock PC,3,200.00%,0,
+IT,IT Hardware,Calcomp,3,0.00%,0,
+IT,IT Hardware,Psion,3,0.00%,0,
+IT,IT Hardware,Compal,3,2,0,
+IT,IT Hardware,TLC,3,0.00%,0,
+IT,IT Hardware,"RealWear, Inc.",3,50.00%,0,
+IT,IT Hardware,ARBOR Technology Corp.,3,0.00%,0,
+IT,IT Hardware,To be disclosed,3,0.5,0,
+IT,IT Hardware,JMC,3,0.00%,0,
+IT,IT Hardware,Philips & LiteOn Digital Solutions,3,0.00%,0,
+IT,IT Hardware,GIGABYTE,3,0.00%,0,
+IT,IT Hardware,ALC Technologies,3,0.00%,0,
+IT,IT Hardware,Komag,3,0.00%,0,
+IT,IT Hardware,Quanta Computer Inc. 廣達電腦,3,0.00%,0,
+IT,IT Hardware,WireSpeed Systems,3,0.00%,0,
+IT,IT Hardware,SGI,2,0.00%,0,
+IT,IT Hardware,Syntech,2,0.00%,0,
+IT,IT Hardware,Kambria,2,-33.30%,0,
+IT,IT Hardware,"Microtech Systems, Inc",2,0.00%,0,
+IT,IT Hardware,NTU,2,0.00%,0,
+IT,IT Hardware,Apple Basic,2,0.00%,0,
+IT,IT Hardware,Spectra Logic,2,0.00%,0,
+IT,IT Hardware,Blaize,2,0.00%,0,
+IT,IT Hardware,CompAsia,2,0.00%,0,
+IT,IT Hardware,MCE Inc.,2,0.00%,0,
+IT,IT Hardware,LaCie,2,0.00%,0,
+IT,IT Hardware,ExaGrid,2,-33.30%,0,
+IT,IT Hardware,"Viking Technology, Division of Sanmina",2,100.00%,0,
+IT,IT Hardware,TallyGenicom,2,0.00%,0,
+IT,IT Hardware,DNF,2,0.00%,0,
+IT,IT Hardware,Escon Corp,2,0.00%,0,
+IT,IT Hardware,Luidia Inc.,2,0.00%,0,
+IT,IT Hardware,"Cooler Master Co., Ltd.",2,0.00%,0,
+IT,IT Hardware,Dot Hill Systems,2,0.00%,0,
+IT,IT Hardware,AAEON,2,-33.30%,0,
+IT,IT Hardware,Showa Denko K.K.,2,0.00%,0,
+IT,IT Hardware,Packard Bell,1,0.00%,0,
+IT,IT Hardware,Repair Inc.,1,,0,
+IT,IT Hardware,Ayar Labs,1,,0,
+IT,IT Hardware,Tripp Lite,1,,0,
+IT,IT Hardware,Datamarked ApS,1,0.00%,0,
+IT,IT Hardware,HP,1,0.00%,0,
+IT,IT Hardware,Innovium Inc.,1,,0,
+IT,IT Hardware,BEARS & CO,1,0.00%,0,
+IT,IT Hardware,Stone Forest,1,,0,
+IT,IT Hardware,"CNE Direct, Inc.",1,0.00%,0,
+IT,IT Hardware,Zoom,1,,0,
+IT,IT Hardware,IT Company,1,,0,
+IT,IT Hardware,Tobii Pro,1,0.00%,0,
+IT,IT Hardware,Motional,1,,0,
+IT,IT Hardware,Thakral One,1,0.00%,0,
+IT,IT Hardware,iFixYouri Corp,1,,0,
+IT,IT Hardware,Ingram Micro,1,0.00%,0,
+IT,Cybersecurity,Ensign InfoSecurity,309,0.08,14,13.40%
+IT,Cybersecurity,Palo Alto Networks,230,6.00%,38,11.20%
+IT,Cybersecurity,Trustwave,160,26.00%,40,19.50%
+IT,Cybersecurity,Fortinet,114,0.163,15,8.50%
+IT,Cybersecurity,"FireEye, Inc.",96,-11.90%,16,20.50%
+IT,Cybersecurity,McAfee,89,-7.30%,6,18.40%
+IT,Cybersecurity,"Check Point Software Technologies, Ltd.",87,10.10%,5,10.80%
+IT,Cybersecurity,NETWORK-SECURITY-SOLUTIONS,84,0.00%,0,0.00%
+IT,Cybersecurity,Darktrace,55,-8.30%,3,27.80%
+IT,Cybersecurity,Horangi Cyber Security,48,-5.90%,14,34.30%
+IT,Cybersecurity,Imperva,48,17.10%,5,9.00%
+IT,Cybersecurity,RSA Security,45,-11.80%,4,16.70%
+IT,Cybersecurity,Netrust Pte Ltd,40,-2.40%,2,7.40%
+IT,Cybersecurity,Kaspersky,38,35.70%,1,6.10%
+IT,Cybersecurity,Proficio,38,0.056,0,16.20%
+IT,Cybersecurity,Pacific Tech Pte Ltd,35,9.40%,3,6.00%
+IT,Cybersecurity,Tenable,33,3.10%,1,6.20%
+IT,Cybersecurity,SecureAge Technology,33,43.50%,6,3.60%
+IT,Cybersecurity,SP Sysnet - ICT Solution Provider,32,6.70%,0,0.00%
+IT,Cybersecurity,TOFFS Technologies,31,0.348,0,7.40%
+IT,Cybersecurity,D'Crypt Pte Ltd,30,11.10%,2,7.00%
+IT,Cybersecurity,Infoblox,29,52.60%,5,20.80%
+IT,Cybersecurity,CrowdStrike,26,116.70%,4,5.30%
+IT,Cybersecurity,Cyber Youth Singapore,26,36.80%,0,22.20%
+IT,Cybersecurity,Sysnet System and Solutions Pte Ltd,24,4.30%,5,4.30%
+IT,Cybersecurity,Classified,23,15.00%,0,4.70%
+IT,Cybersecurity,Zscaler,22,144.40%,7,6.50%
+IT,Cybersecurity,Recorded Future,22,0.222,8,10.00%
+IT,Cybersecurity,Exclusive Networks,22,46.70%,0,10.80%
+IT,Cybersecurity,Veracode,21,-4.50%,0,14.00%
+IT,Cybersecurity,Quantiq International,21,-19.20%,0,21.30%
+IT,Cybersecurity,PulseSecure Pte Ltd,20,0.00%,0,0.00%
+IT,Cybersecurity,GlobalSign,20,-4.80%,0,19.50%
+IT,Cybersecurity,Ground Labs,20,-23.10%,3,30.40%
+IT,Cybersecurity,Rapid7,19,-5.00%,0,20.50%
+IT,Cybersecurity,Menlo Security Inc.,19,18.80%,2,5.70%
+IT,Cybersecurity,Yi-Ke Innovations Pte Ltd,18,38.50%,0,6.50%
+IT,Cybersecurity,Acepak Technology Pte. Ltd.,15,50.00%,0,
+IT,Cybersecurity,Proofpoint,15,114.30%,4,
+IT,Cybersecurity,Scantist,14,27.30%,1,
+IT,Cybersecurity,SecureCraft Asia,14,27.30%,0,
+IT,Cybersecurity,Pragma Strategy,14,75.00%,1,
+IT,Cybersecurity,WatchGuard Technologies,13,18.20%,0,
+IT,Cybersecurity,startUP,13,8.30%,0,
+IT,Cybersecurity,Mandiant,13,8.30%,0,
+IT,Cybersecurity,ReaQta,12,71.40%,0,
+IT,Cybersecurity,VMware Carbon Black,12,33.30%,0,
+IT,Cybersecurity,MicroSec,12,20.00%,0,
+IT,Cybersecurity,wizlynx group,12,50.00%,6,
+IT,Cybersecurity,Forescout Technologies Inc.,12,-20.00%,1,
+IT,Cybersecurity,Transmex Systems International,12,0.00%,0,
+IT,Cybersecurity,HackerOne,11,10.00%,0,
+IT,Cybersecurity,Protegrity,10,25.00%,1,
+IT,Cybersecurity,SANS Institute,10,0.00%,0,
+IT,Cybersecurity,NCS,10,0.00%,0,
+IT,Cybersecurity,Identiv,10,42.90%,0,
+IT,Cybersecurity,Thales Cloud Security,10,11.10%,0,
+IT,Cybersecurity,MWR InfoSecurity,9,-18.20%,0,
+IT,Cybersecurity,Falaina,9,12.50%,0,
+IT,Cybersecurity,EC-Council,8,0.00%,0,
+IT,Cybersecurity,CyberProof,8,14.30%,0,
+IT,Cybersecurity,IronNet Cybersecurity,8,100.00%,0,
+IT,Cybersecurity,NSHC,8,-27.30%,0,
+IT,Cybersecurity,ONESECURE Asia Pte Ltd,7,0.00%,0,
+IT,Cybersecurity,ExtraHop,7,0.00%,3,
+IT,Cybersecurity,Blackpanda,7,75.00%,2,
+IT,Cybersecurity,Dropsuite,7,0.00%,0,
+IT,Cybersecurity,ST Engineering,7,-12.50%,0,
+IT,Cybersecurity,Mitsui knowledge Industry,6,50.00%,0,
+IT,Cybersecurity,SonicWall,6,0.00%,0,
+IT,Cybersecurity,NSFOCUS,6,50.00%,0,
+IT,Cybersecurity,Armis,6,500.00%,0,
+IT,Cybersecurity,Synack Red Team,6,20.00%,0,
+IT,Cybersecurity,UPEK,6,0.00%,0,
+IT,Cybersecurity,Skybox Security,6,0.00%,0,
+IT,Cybersecurity,Cyber Intelligence House,6,-33.30%,0,
+IT,Cybersecurity,Claroty,6,100.00%,0,
+IT,Cybersecurity,ProSec GmbH,5,0.00%,0,
+IT,Cybersecurity,Cybereason,5,0.00%,1,
+IT,Cybersecurity,Anomali,5,-16.70%,0,
+IT,Cybersecurity,Turnkey Consulting,5,0.00%,0,
+IT,Cybersecurity,Confidential,5,0.00%,0,
+IT,Cybersecurity,Silverlake MasterSAM,5,0.00%,0,
+IT,Cybersecurity,Nexusguard,5,0.00%,0,
+IT,Cybersecurity,Digital Shadows,5,0.00%,0,
+IT,Cybersecurity,SentinelOne,5,1.5,1,
+IT,Cybersecurity,[redacted],4,33.30%,0,
+IT,Cybersecurity,CREST,4,0.00%,0,
+IT,Cybersecurity,Lookout,4,0.00%,0,
+IT,Cybersecurity,Nozomi Networks,3,-25.00%,0,
+IT,Cybersecurity,Cobalt.io,3,0.00%,0,
+IT,Cybersecurity,Global Resilience Federation,3,50.00%,0,
+IT,Cybersecurity,Cloud Security Alliance,3,-25.00%,0,
+IT,Cybersecurity,Lucideus,3,0.5,0,
+IT,Cybersecurity,Qualys,3,0.00%,4,
+IT,Cybersecurity,Sygnia,3,50.00%,0,
+IT,Cybersecurity,RAH Infotech Pvt Ltd,2,100.00%,0,
+IT,Cybersecurity,"Virgil Security, Inc.",1,0.00%,0,
+IT,Cybersecurity,1Kosmos - BlockID,1,,0,
+IT,Cybersecurity,RSA Conference,1,0.00%,0,
+IT,Telecommunications,Singtel,"5,560",0.054,299,7.20%
+IT,Telecommunications,StarHub,"2,195",-2.60%,18,9.70%
+IT,Telecommunications,Nokia,984,-1.10%,7,2.90%
+IT,Telecommunications,M1 Limited,898,0.002,47,10.50%
+IT,Telecommunications,Huawei,730,10.30%,17,9.30%
+IT,Telecommunications,AT&T,335,0.047,2,6.70%
+IT,Telecommunications,BT,313,-4.30%,2,6.90%
+IT,Telecommunications,Rohde & Schwarz,278,0.40%,9,4.00%
+IT,Telecommunications,Telstra,240,-4.40%,0,13.40%
+IT,Telecommunications,Circles.Life,210,-10.30%,27,43.70%
+IT,Telecommunications,Avaya,177,-0.60%,0,1.70%
+IT,Telecommunications,Motorola Solutions,174,0.00%,1,6.30%
+IT,Telecommunications,Nera Telecommunications Ltd,154,-3.10%,7,15.30%
+IT,Telecommunications,MyRepublic,151,-8.50%,1,22.80%
+IT,Telecommunications,Telenor,129,0.049,0,7.90%
+IT,Telecommunications,Tata Communications,119,-29.20%,2,36.90%
+IT,Telecommunications,Sprint,118,0.90%,0,0.00%
+IT,Telecommunications,NetLink Trust,115,5.50%,1,7.10%
+IT,Telecommunications,VIAVI Solutions,104,-2.80%,0,4.70%
+IT,Telecommunications,ViewQwest,102,0.052,8,13.10%
+IT,Telecommunications,CommScope,99,2.10%,14,7.10%
+IT,Telecommunications,SPTel Pte Ltd,98,11.40%,9,12.90%
+IT,Telecommunications,Lantrovision (S) Ltd,96,-1.00%,0,3.10%
+IT,Telecommunications,Radiance Communications Pte Ltd,93,-5.10%,0,8.40%
+IT,Telecommunications,Amdocs,90,-3.20%,6,12.00%
+IT,Telecommunications,Vodafone Business,89,-14.40%,0,19.70%
+IT,Telecommunications,Inmarsat,87,1.20%,0,5.80%
+IT,Telecommunications,Lucky Joint Construction Pte Ltd,84,0.12,3,2.50%
+IT,Telecommunications,NetLink NBN Trust,78,16.40%,0,8.30%
+IT,Telecommunications,Orange,68,7.90%,0,4.60%
+IT,Telecommunications,Vodafone,66,-5.70%,1,20.60%
+IT,Telecommunications,OPPO,62,10.70%,2,10.20%
+IT,Telecommunications,TPG,62,21.60%,0,24.80%
+IT,Telecommunications,Epsilon Telecommunications,60,-14.30%,0,23.10%
+IT,Telecommunications,Poly,59,1.70%,3,10.30%
+IT,Telecommunications,Polycom,57,-1.70%,0,3.50%
+IT,Telecommunications,Spectrum Audio Visual Pte Ltd,56,-5.10%,0,17.40%
+IT,Telecommunications,Pacnet,56,0.00%,0,0.00%
+IT,Telecommunications,ZTE Corporation,54,1.90%,0,5.60%
+IT,Telecommunications,ROOTS Communications Pte Ltd,53,-7.00%,0,9.10%
+IT,Telecommunications,O'Connor's Singapore Pte Ltd,51,-5.60%,1,13.30%
+IT,Telecommunications,Sony Mobile Communications,50,-3.80%,0,5.90%
+IT,Telecommunications,China Telecom Asia Pacific,50,47.10%,3,2.40%
+IT,Telecommunications,NTT Ltd.,49,0.00%,0,0.00%
+IT,Telecommunications,Addvalue Innovation Pte Ltd.,49,2.10%,6,2.10%
+IT,Telecommunications,Nucleus Connect Pte Ltd,48,-17.20%,0,20.80%
+IT,Telecommunications,Nexwave Technologies,46,0.00%,0,4.30%
+IT,Telecommunications,Finisar Corporation,46,-6.10%,0,6.30%
+IT,Telecommunications,Arkadin,45,0.00%,3,13.30%
+IT,Telecommunications,kpn,44,-2.20%,0,2.20%
+IT,Telecommunications,GRID Communications Pte Ltd,44,0.073,0,4.70%
+IT,Telecommunications,Colt Technology Services,44,2.30%,0,2.30%
+IT,Telecommunications,IMCB LTD,41,0.00%,0,0.00%
+IT,Telecommunications,CSE Transtel,41,-2.40%,0,2.40%
+IT,Telecommunications,Mavenir,41,-2.40%,1,4.80%
+IT,Telecommunications,China Mobile International Limited,40,37.90%,0,11.60%
+IT,Telecommunications,SES Satellites,40,8.10%,2,7.80%
+IT,Telecommunications,ASEAN Cableship Pte Ltd,40,5.30%,0,0.00%
+IT,Telecommunications,IPage Telecom,39,0.00%,0,0.00%
+IT,Telecommunications,Leap Networks Pte Ltd,38,-7.30%,0,15.20%
+IT,Telecommunications,Alcatel-Lucent Enterprise,37,2.80%,0,8.20%
+IT,Telecommunications,Beaqon Pte Ltd,37,15.60%,2,8.70%
+IT,Telecommunications,Bridge Alliance,36,16.10%,2,0.00%
+IT,Telecommunications,Teledata (Singapore) Limited,35,0.00%,0,0.00%
+IT,Telecommunications,NETe2 Asia Pte Ltd,35,-2.80%,2,14.10%
+IT,Telecommunications,Singapore Airline Limited,34,6.30%,0,3.00%
+IT,Telecommunications,Keppel Telecommunications & Transportation,34,0.00%,0,2.90%
+IT,Telecommunications,TeleChoice,34,0.00%,0,2.90%
+IT,Telecommunications,Princeton Digital Group,33,94.10%,1,4.00%
+IT,Telecommunications,Ciena,33,-2.90%,0,9.00%
+IT,Telecommunications,Optus,33,6.50%,0,18.80%
+IT,Telecommunications,RADUGA PTE LTD,32,-13.50%,0,37.70%
+IT,Telecommunications,T-Mobile,32,3.20%,0,0.00%
+IT,Telecommunications,AirTrunk,31,34.80%,4,0.00%
+IT,Telecommunications,Comba Telecom,31,-3.10%,1,6.30%
+IT,Telecommunications,Radio Holland Singapore,30,7.10%,2,3.40%
+IT,Telecommunications,S i2i Limited,30,0.00%,0,0.00%
+IT,Telecommunications,PCCW GLOBAL Limited,28,-3.40%,0,3.50%
+IT,Telecommunications,Eltek AS,28,3.70%,0,0.00%
+IT,Telecommunications,Telin (PT Telekomunikasi Indonesia International),27,-15.60%,0,27.10%
+IT,Telecommunications,Marlink,27,-6.90%,0,7.10%
+IT,Telecommunications,TAKASAGO SINGAPORE PTE LTD,27,0.00%,0,0.00%
+IT,Telecommunications,West Unified Communications Services,26,-13.30%,0,14.30%
+IT,Telecommunications,Speedcast,26,0.00%,0,11.50%
+IT,Telecommunications,RigNet,26,-10.30%,0,14.50%
+IT,Telecommunications,IP-TRIBE,25,0.25,0,17.80%
+IT,Telecommunications,CITIC Telecom International CPC Limited,25,-10.70%,2,26.40%
+IT,Telecommunications,China Telecom Global,25,0.00%,0,24.00%
+IT,Telecommunications,Masstron Pte Ltd,24,4.30%,2,8.50%
+IT,Telecommunications,Nortel Networks,24,0.00%,0,0.00%
+IT,Telecommunications,MessageBird,24,0.00%,4,20.80%
+IT,Telecommunications,Vital Shared Services,24,4.30%,0,4.30%
+IT,Telecommunications,BICS,24,0.00%,0,0.00%
+IT,Telecommunications,Knot Solutions Pvt Ltd - CMMI DEV1.3 & SVC1.3 maturity level 3 appraised organization,23,0.095,1,0.00%
+IT,Telecommunications,IX Mobile Pte Ltd,23,-4.20%,1,4.30%
+IT,Telecommunications,Kacific Broadband Satellites Group,23,9.50%,1,27.30%
+IT,Telecommunications,Globe Telecom,23,4.50%,0,0.00%
+IT,Telecommunications,Microtel Technology,22,29.40%,1,0.00%
+IT,Telecommunications,VERSITEL PTE LTD,22,0.00%,0,0.00%
+IT,Telecommunications,stc,20,5.30%,0,5.10%
+IT,Fintech,Standard Chartered Bank,"1,506",0.017,4,7.40%
+IT,Fintech,Prudential Assurance Company Singapore,"1,264",3.80%,6,6.30%
+IT,Fintech,AIA,"1,240",0.70%,6,6.30%
+IT,Fintech,Citi,"1,089",0.005,54,8.00%
+IT,Fintech,DBS Bank,"1,035",5.10%,82,10.40%
+IT,Fintech,UOB,823,-5.00%,73,11.80%
+IT,Fintech,AIA Singapore,784,4.40%,1,5.30%
+IT,Fintech,OCBC Bank,644,-2.70%,80,15.20%
+IT,Fintech,HSBC,547,-5.50%,0,10.50%
+IT,Fintech,EY,547,0.00%,53,15.20%
+IT,Fintech,UBS,480,3.00%,14,8.90%
+IT,Fintech,JPMorgan Chase & Co.,423,-0.90%,73,5.60%
+IT,Fintech,GREAT EASTERN,409,6.00%,18,5.80%
+IT,Fintech,PwC Singapore,365,6.10%,33,12.70%
+IT,Fintech,Accenture,349,-10.10%,0,19.30%
+IT,Fintech,Credit Suisse,337,4.30%,10,8.20%
+IT,Fintech,KPMG Singapore,329,-2.70%,1,15.60%
+IT,Fintech,AXA,322,-5.00%,2,11.50%
+IT,Fintech,Manulife Financial Advisers Pte Ltd,301,9.90%,0,3.10%
+IT,Fintech,Professional Investment Advisory Services Pte Ltd,298,0.035,3,3.10%
+IT,Fintech,Grab,285,-2.70%,48,20.10%
+IT,Fintech,Deutsche Bank,275,-0.40%,0,8.30%
+IT,Fintech,J.P. Morgan,251,0.80%,11,5.20%
+IT,Fintech,Visa,243,-0.40%,11,9.40%
+IT,Fintech,Deloitte,234,-6.80%,8,17.70%
+IT,Fintech,"Bank of Singapore, Asia's Global Private Bank",227,0.40%,12,10.60%
+IT,Fintech,Manulife,217,-1.40%,16,7.80%
+IT,Fintech,IBM,215,-12.20%,4,20.00%
+IT,Fintech,Income,207,-4.20%,2,16.50%
+IT,Fintech,Google,199,12.40%,4,9.00%
+IT,Fintech,Amazon Web Services (AWS),179,42.10%,11,11.10%
+IT,Fintech,PwC,173,-7.50%,0,17.80%
+IT,Fintech,Maybank,165,3.10%,1,5.50%
+IT,Fintech,Great Eastern Financial Advisers Private Limited,164,0.60%,1,4.30%
+IT,Fintech,MUFG,158,2.60%,3,9.60%
+IT,Fintech,Bank of America Merrill Lynch,157,-3.70%,0,9.40%
+IT,Fintech,Shopee,156,57.60%,32,19.60%
+IT,Fintech,Aviva,154,-8.30%,0,18.60%
+IT,Fintech,Mastercard,147,2.80%,5,9.00%
+IT,Fintech,finexis advisory Pte Ltd,144,1.40%,3,8.40%
+IT,Fintech,KPMG,137,3.00%,0,14.10%
+IT,Fintech,Facebook,136,16.20%,5,6.30%
+IT,Fintech,Microsoft,136,5.40%,1,10.60%
+IT,Fintech,ANZ,135,-2.20%,1,5.10%
+IT,Fintech,Oracle,133,-8.30%,1,18.70%
+IT,Fintech,Singtel,132,20.00%,17,21.50%
+IT,Fintech,Monetary Authority of Singapore (MAS),131,11.00%,2,6.40%
+IT,Fintech,National University of Singapore,130,28.70%,2,14.70%
+IT,Fintech,BNY Mellon,129,0.80%,7,6.20%
+IT,Fintech,SGX,127,-2.30%,5,8.60%
+IT,Fintech,BNP Paribas,125,-5.30%,32,14.00%
+IT,Fintech,American Express,120,-4.80%,1,8.90%
+IT,Fintech,Financial Alliance Pte Ltd,114,4.60%,0,3.60%
+IT,Fintech,Goldman Sachs,113,6.60%,10,17.40%
+IT,Fintech,PayPal,113,2.70%,21,9.00%
+IT,Fintech,IPP Financial Advisers,112,2.80%,0,2.70%
+IT,Fintech,Singapore Management University,111,6.70%,0,34.40%
+IT,Fintech,Cognizant,108,-1.80%,2,10.10%
+IT,Fintech,GIC,103,5.10%,5,11.90%
+IT,Fintech,NCS Group,99,28.60%,0,14.80%
+IT,Fintech,Aon,99,4.20%,5,6.20%
+IT,Fintech,Bloomberg LP,94,3.30%,6,11.90%
+IT,Fintech,Bank of America,92,4.50%,1,1.10%
+IT,Fintech,Salesforce,91,-2.20%,2,25.00%
+IT,Fintech,Barclays,88,-3.30%,2,6.70%
+IT,Fintech,Aviva Financial Advisers,86,-2.30%,1,11.50%
+IT,Fintech,Advisors Alliance Group,85,10.40%,0,8.60%
+IT,Fintech,Phillip Securities Pte Ltd,84,0.00%,0,6.00%
+IT,Fintech,Julius Baer,82,-1.20%,0,9.70%
+IT,Fintech,SAP,81,-4.70%,0,12.00%
+IT,Fintech,GovTech Singapore,79,31.70%,3,7.20%
+IT,Fintech,CIMB,79,-12.20%,0,15.40%
+IT,Fintech,Barclays Investment Bank,79,-11.20%,0,14.30%
+IT,Fintech,The Citco Group Limited,78,-6.00%,0,16.10%
+IT,Fintech,Nanyang Technological University,78,0.00%,35,26.90%
+IT,Fintech,Temasek,76,5.60%,4,12.20%
+IT,Fintech,Prudential UK,76,0.00%,0,2.60%
+IT,Fintech,Tata Consultancy Services,74,-5.10%,1,10.50%
+IT,Fintech,Personal Capital Management - PCM,74,-1.30%,0,1.30%
+IT,Fintech,ST Engineering,73,0.00%,0,13.70%
+IT,Fintech,PhillipCapital,71,-1.40%,5,7.00%
+IT,Fintech,FIS,70,-6.70%,3,15.20%
+IT,Fintech,Mizuho,70,-5.40%,0,6.90%
+IT,Fintech,Singapore Airlines,69,-12.70%,0,17.60%
+IT,Fintech,"Refinitiv, an LSEG business",69,-5.50%,11,11.30%
+IT,Fintech,BlackRock,67,0.047,3,6.10%
+IT,Fintech,Nomura,67,6.30%,1,6.20%
+IT,Fintech,NETS,64,0.00%,4,10.90%
+IT,Fintech,Synergy Financial Advisers Pte Ltd,63,0.00%,0,3.20%
+IT,Fintech,St. James's Place Wealth Management – Asia,63,5.00%,0,1.60%
+IT,Fintech,Randstad Singapore,61,-1.60%,41,14.60%
+IT,Fintech,Lazada,61,5.20%,0,18.50%
+IT,Fintech,McKinsey & Company,59,0.00%,0,15.30%
+IT,Fintech,Ant Group,57,0.163,0,7.50%
+IT,Fintech,Wirecard,57,-34.50%,0,50.00%
+IT,Fintech,Capgemini,52,2.00%,0,11.70%
+IT,Fintech,INSEAD,51,24.40%,0,8.70%
+IT,Fintech,Antler,49,32.40%,4,34.90%
+IT,Fintech,ING,47,-6.00%,0,14.40%
+IT,Fintech,Singapore University of Social Sciences (SUSS),46,9.50%,0,9.10%
+IT,Cloud Computing,Amazon Web Services (AWS),1116,0.455,116,0.1
+IT,Cloud Computing,IBM,850,-0.073,13,0.183
+IT,Cloud Computing,Microsoft,829,0.036,29,0.112
+IT,Cloud Computing,Oracle,634,-0.135,4,0.215
+IT,Cloud Computing,NCS Group,622,0.087,11,0.191
+IT,Cloud Computing,DBS Bank,616,0.092,55,0.12
+IT,Cloud Computing,Singtel,548,0.026,94,0.183
+IT,Cloud Computing,GovTech Singapore,497,0.23,58,0.131
+IT,Cloud Computing,SAP,487,-0.039,4,0.107
+IT,Cloud Computing,Accenture,462,-0.13,3,0.294
+IT,Cloud Computing,Google,455,0.073,17,0.2
+IT,Cloud Computing,Standard Chartered Bank,426,0.049,0,0.156
+IT,Cloud Computing,Salesforce,379,0.027,39,0.184
+IT,Cloud Computing,Hewlett Packard Enterprise,340,-0.012,21,0.105
+IT,Cloud Computing,Grab,339,-0.103,31,0.257
+IT,Cloud Computing,Cisco,316,-0.031,8,0.09
+IT,Cloud Computing,VMware,283,0.029,70,0.154
+IT,Cloud Computing,ST Engineering,264,-0.05,1,0.203
+IT,Cloud Computing,Dell EMC,242,-0.09,0,0.126
+IT,Cloud Computing,Citi,229,0.018,17,0.119
+IT,Cloud Computing,NTT Ltd.,227,-0.054,6,0.218
+IT,Cloud Computing,Autodesk,226,0.076,8,0.073
+IT,Cloud Computing,UOB,204,0.079,9,0.168
+IT,Cloud Computing,IHiS (Integrated Health Information Systems),195,0.161,0,0.121
+IT,Cloud Computing,Dell Technologies,193,0.129,0,0.11
+IT,Cloud Computing,Facebook,176,0.1,2,0.131
+IT,Cloud Computing,Shopee,172,0.623,26,0.144
+IT,Cloud Computing,StarHub,170,-0.163,1,0.3
+IT,Cloud Computing,National University of Singapore,168,0.063,3,0.387
+IT,Cloud Computing,Visa,168,0.05,3,0.128
+IT,Cloud Computing,JPMorgan Chase & Co.,166,0.038,35,0.098
+IT,Cloud Computing,HP,154,-0.094,0,0.16
+IT,Cloud Computing,Equinix,150,0.111,5,0.042
+IT,Cloud Computing,OCBC Bank,149,0.021,12,0.176
+IT,Cloud Computing,Cognizant,143,0.036,19,0.214
+IT,Cloud Computing,DXC Technology,139,-0.097,2,0.232
+IT,Cloud Computing,Tata Consultancy Services,133,-0.113,4,0.198
+IT,Cloud Computing,Singapore Airlines,129,0.008,12,0.187
+IT,Cloud Computing,Avanade,126,0.016,19,0.168
+IT,Cloud Computing,HCL Technologies,124,0.078,3,0.126
+IT,Cloud Computing,Nanyang Technological University,121,-0.09,7,0.331
+IT,Cloud Computing,Nokia,113,-0.05,5,0.078
+IT,Cloud Computing,Huawei,113,-0.017,4,0.202
+IT,Cloud Computing,PCCW Solutions Limited,112,0.4,1,0.156
+IT,Cloud Computing,Apple,107,0.151,0,0.08
+IT,Cloud Computing,Palo Alto Networks,105,0.01,14,0.172
+IT,Cloud Computing,NEC Asia Pacific Pte Ltd,102,-0.029,2,0.213
+IT,Cloud Computing,Red Hat,97,-0.03,9,0.234
+IT,Cloud Computing,EY,97,-0.085,10,0.365
+IT,Cloud Computing,PALO IT,90,0.25,2,0.16
+IT,Cloud Computing,Infosys,87,-0.084,7,0.198
+IT,Cloud Computing,KPMG Singapore,87,0.061,4,0.142
+IT,Cloud Computing,BT,84,-0.116,0,0.179
+IT,Cloud Computing,Wipro Limited,84,-0.077,2,0.229
+IT,Cloud Computing,Dimension Data,84,-0.125,0,0.144
+IT,Cloud Computing,Credit Suisse,81,0.013,1,0.161
+IT,Cloud Computing,UBS,81,0.08,3,0.141
+IT,Cloud Computing,GIC,81,0,3,0.259
+IT,Cloud Computing,ServiceNow,81,0.227,7,0.15
+IT,Cloud Computing,F5,81,0.025,3,0.112
+IT,Cloud Computing,Hitachi Vantara,80,-0.111,8,0.224
+IT,Cloud Computing,Nutanix,80,0.013,3,0.101
+IT,Cloud Computing,Tableau Software,79,0.129,0,0.121
+IT,Cloud Computing,Cloudflare,79,0.411,2,0.104
+IT,Cloud Computing,Deloitte,78,-0.103,34,0.267
+IT,Cloud Computing,Orange Business Services,78,-0.103,2,0.194
+IT,Cloud Computing,Adobe,78,-0.025,2,0.165
+IT,Cloud Computing,Crédit Agricole CIB,76,-0.116,0,0.21
+IT,Cloud Computing,Dell,75,0.014,10,0.067
+IT,Cloud Computing,Singapore Press Holdings,75,-0.038,12,0.196
+IT,Cloud Computing,Capgemini,74,-0.026,3,0.227
+IT,Cloud Computing,Zendesk,73,0.09,4,0.186
+IT,Cloud Computing,"A*STAR - Agency for Science, Technology and Research",73,0.304,14,0.062
+IT,Cloud Computing,Lazada,72,0.059,3,0.3
+IT,Cloud Computing,Thales,71,0.06,8,0.13
+IT,Cloud Computing,M1 Limited,70,-0.125,10,0.24
+IT,Cloud Computing,Singapore Management University,69,-0.092,1,0.841
+IT,Cloud Computing,Telstra,68,-0.014,0,0.263
+IT,Cloud Computing,Citrix,67,0.117,4,0.173
+IT,Cloud Computing,Ingram Micro,67,-0.043,7,0.19
+IT,Cloud Computing,DSTA,67,-0.015,2,0.193
+IT,Cloud Computing,IMDA,66,0.065,0,0.188
+IT,Cloud Computing,Akamai Technologies,65,-0.071,0,0.119
+IT,Cloud Computing,NetApp,62,-0.016,2,0.256
+IT,Cloud Computing,PayPal,61,0.196,4,0.089
+IT,Cloud Computing,ThoughtWorks,59,0.093,2,0.159
+IT,Cloud Computing,LinkedIn,58,-0.017,0,0.171
+IT,Cloud Computing,Gojek,58,0.261,2,0.288
+IT,Cloud Computing,Acronis,58,0.208,15,0.075
+IT,Cloud Computing,Splunk,57,0.239,2,0.078
+IT,Cloud Computing,ByteDance,57,2.167,12,0.107
+IT,Cloud Computing,Lumen Technologies,57,0.541,1,0
+IT,Cloud Computing,Circles.Life,56,-0.125,9,0.417
+IT,Cloud Computing,Schneider Electric,53,-0.036,1,0.074
+IT,Cloud Computing,Twilio Inc.,53,0.656,4,0.165
+IT,Cloud Computing,Prudential Assurance Company Singapore,49,0.065,2,0.253
+IT,Cloud Computing,Intel Corporation,49,-0.14,1,0.151
+IT,Cloud Computing,NE Digital,48,0.846,3,0
+IT,Cloud Computing,Singapore Polytechnic,37,0.088,5,0.169
+IT,Cloud Computing,Singapore University of Social Sciences (SUSS),36,0.161,0,0.06
+IT,Networks,NCS Group,517,0.004,3,0.223
+IT,Networks,Singtel,505,0.002,27,0.121
+IT,Networks,Cisco,240,0.004,10,0.096
+IT,Networks,ST Engineering,239,-0.028,1,0.12
+IT,Networks,IBM,208,-0.046,1,0.211
+IT,Networks,NTT Ltd.,207,-0.108,22,0.246
+IT,Networks,IHiS (Integrated Health Information Systems),194,0.121,0,0.131
+IT,Networks,StarHub,188,-0.083,1,0.183
+IT,Networks,DBS Bank,176,0,9,0.131
+IT,Networks,GovTech Singapore,172,0.194,1,0.158
+IT,Networks,Hewlett Packard Enterprise,164,-0.041,0,0.101
+IT,Networks,Amazon Web Services (AWS),163,0.336,9,0.147
+IT,Networks,Dell EMC,160,-0.075,0,0.078
+IT,Networks,Standard Chartered Bank,149,0.112,0,0.085
+IT,Networks,Citi,147,0.014,8,0.096
+IT,Networks,Microsoft,141,0.102,8,0.089
+IT,Networks,NEC Asia Pacific Pte Ltd,121,-0.076,0,0.198
+IT,Networks,Nokia,118,-0.008,6,0.059
+IT,Networks,VMware,112,0.037,18,0.109
+IT,Networks,Dimension Data,109,-0.114,0,0.138
+IT,Networks,Google,106,0.093,3,0.099
+IT,Networks,AT&T,103,-0.064,2,0.085
+IT,Networks,Apple,102,0.063,1,0.101
+IT,Networks,M1 Limited,97,-0.149,6,0.209
+IT,Networks,Accenture,97,-0.164,0,0.366
+IT,Networks,PCCW Solutions Limited,96,0.28,0,0.129
+IT,Networks,Visa,91,-0.022,7,0.054
+IT,Networks,JPMorgan Chase & Co.,87,-0.011,11,0.137
+IT,Networks,Dell Technologies,84,0.091,0,0.099
+IT,Networks,Palo Alto Networks,83,0.025,13,0.085
+IT,Networks,OCBC Bank,82,-0.079,2,0.222
+IT,Networks,F5,80,0.053,2,0.077
+IT,Networks,Equinix,79,0.082,1,0.066
+IT,Networks,Facebook,79,0.082,2,0.118
+IT,Networks,National University of Singapore,76,0.118,3,0.083
+IT,Networks,Huawei,76,-0.05,1,0.154
+IT,Networks,UOB,75,-0.013,7,0.172
+IT,Networks,Oracle,74,-0.129,0,0.226
+IT,Networks,Wipro Limited,72,-0.04,0,0.163
+IT,Networks,Grab,69,-0.014,4,0.187
+IT,Networks,Marina Bay Sands,68,0,2,0.044
+IT,Networks,HCL Technologies,68,0.193,0,0.064
+IT,Networks,Salesforce,68,0.063,0,0.121
+IT,Networks,Nanyang Technological University,65,0.048,2,0.236
+IT,Networks,Telstra,63,-0.031,0,0.172
+IT,Networks,Ensign InfoSecurity,62,0.192,2,0.088
+IT,Networks,SAP,61,0.052,0,0.101
+IT,Networks,Singapore Airlines,60,0.071,2,0.086
+IT,Networks,BT,59,-0.169,0,0.215
+IT,Networks,DSTA,58,0.018,0,0.122
+IT,Networks,Orange Business Services,58,-0.033,0,0.102
+IT,Networks,SITA,57,-0.081,2,0.134
+IT,Networks,UBS,54,0.174,2,0.08
+IT,Networks,Singapore Armed Forces (SAF),52,-0.35,0,0.606
+IT,Networks,Fujitsu Asia,52,0.061,0,0.139
+IT,Networks,HP,50,-0.091,0,0.114
+IT,Networks,Ericsson,50,0,2,0.08
+IT,Networks,Trustwave,50,0.429,4,0.188
+IT,Networks,Ministry of Defence of Singapore,47,-0.13,0,0.238
+IT,Networks,Bank of America Merrill Lynch,47,0.044,0,0.043
+IT,Networks,Sea,46,0.353,4,0.075
+IT,Networks,Micron Technology,46,-0.061,19,0.168
+IT,Networks,Hitachi Vantara,46,-0.115,0,0.204
+IT,Networks,Deutsche Bank,46,0.045,0,0.067
+IT,Networks,Credit Suisse,42,-0.023,1,0.118
+IT,Networks,Cloudflare,42,0.273,5,0.133
+IT,Networks,"A*STAR - Agency for Science, Technology and Research",41,0.242,2,0.081
+IT,Networks,Cognizant,41,0.051,0,0.1
+IT,Networks,Nera Telecommunications Ltd,40,-0.149,2,0.391
+IT,Networks,Logicalis,39,-0.093,0,0.122
+IT,Networks,Fujitsu,39,0,0,0.128
+IT,Networks,DXC Technology,39,-0.071,0,0.296
+IT,Networks,EY,38,-0.208,6,0.395
+IT,Networks,Ingram Micro,37,0.028,2,0.11
+IT,Networks,BlackRock,37,0.088,0,0
+IT,Networks,GLOBALFOUNDRIES,37,0.028,0,0.027
+IT,Networks,HCL Insys Pte Ltd (part of PCCW Solutions),36,0.059,0,0.229
+IT,Networks,ViewQwest,35,0.029,0,0.145
+IT,Networks,"FireEye, Inc.",35,-0.028,0,0.141
+IT,Networks,Nutanix,35,0.029,1,0.058
+IT,Networks,Johnson & Johnson,34,0.133,0,0.031
+IT,Networks,Autodesk,34,0.097,0,0.062
+IT,Networks,HTX (Home Team Science & Technology Agency),33,0.5,0,0.036
+IT,Networks,Tata Consultancy Services,33,0.031,2,0.062
+IT,Networks,Bank of America,33,0.1,0,0.063
+IT,Networks,SPTel Pte Ltd,32,0.143,4,0.067
+IT,Networks,Infosys,31,0,4,0.194
+IT,Networks,NetApp,31,-0.088,0,0.277
+IT,Networks,Certis,30,-0.063,1,0.194
+IT,Networks,Fortinet,30,0.25,5,0.111
+IT,Networks,ExxonMobil,29,-0.094,0,0.098
+IT,Networks,CTC Global Pte Ltd,29,0,0,0.103
+IT,Networks,Deloitte,28,0.077,0,0.185
+IT,Networks,Ngee Ann Polytechnic,28,0,0,0.107
+IT,Networks,Lazada,27,-0.036,0,0.145
+IT,Networks,"Check Point Software Technologies, Ltd.",27,0.286,1,0.125
+IT,Networks,Singapore Management University,24,-0.04,0,0.367
+IT,Networks,Shopee,23,0.769,4,0.056
+IT,Networks,Singapore Polytechnic,16,-0.059,4,0.061
+IT,Networks,Hyperledger,1,0,0,
+IT,Internet,Shopee,"2,570",0.512,745,13.90%
+IT,Internet,Google,"2,293",0.016,118,11.70%
+IT,Internet,Facebook,"1,597",0.086,124,9.40%
+IT,Internet,Lazada,"1,169",0.065,91,18.40%
+IT,Internet,Amazon,884,0.447,120,13.40%
+IT,Internet,foodpanda,757,0.58,152,14.10%
+IT,Internet,Equinix,677,0.119,3,4.20%
+IT,Internet,Salesforce,666,0.046,68,14.70%
+IT,Internet,PayPal,594,0.121,50,7.70%
+IT,Internet,Sea,586,0.234,35,10.90%
+IT,Internet,ByteDance,435,2.129,148,8.70%
+IT,Internet,LinkedIn,434,-8.40%,13,18.70%
+IT,Internet,TikTok,341,5.2,84,6.10%
+IT,Internet,RedMart,307,0.089,0,14.60%
+IT,Internet,Gojek,304,0.038,14,22.80%
+IT,Internet,YouTube,266,0.298,12,4.20%
+IT,Internet,ZALORA Group,260,0.02,19,12.40%
+IT,Internet,Booking.com,257,-13.80%,3,19.10%
+IT,Internet,Tencent,255,0.328,33,8.90%
+IT,Internet,PropertyGuru Group,241,0.071,31,11.20%
+IT,Internet,Carousell,239,-5.20%,15,29.70%
+IT,Internet,Twitter,222,0.121,44,8.10%
+IT,Internet,Uber,205,-19.60%,8,29.10%
+IT,Internet,HubSpot,202,0.116,11,11.50%
+IT,Internet,Expedia Group,199,-15.00%,2,23.10%
+IT,Internet,Qoo10 Singapore,194,0.043,0,8.40%
+IT,Internet,Airbnb,192,-32.60%,5,44.00%
+IT,Internet,Ant Group,184,0.129,0,10.40%
+IT,Internet,Cloudflare,178,0.391,0,10.50%
+IT,Internet,Stripe,175,0.367,1,9.20%
+IT,Internet,SingTel Digital Media,159,0.00%,0,0.00%
+IT,Internet,Equinix Asia-Pacific,155,0.292,33,7.30%
+IT,Internet,ShopBack,153,0.133,27,13.20%
+IT,Internet,Agoda,150,-10.20%,64,24.60%
+IT,Internet,Rakuten Asia Pte Ltd,147,0.089,16,12.80%
+IT,Internet,Indeed.com,142,0.022,0,7.10%
+IT,Internet,RWS,127,-1.60%,0,1.60%
+IT,Internet,Institute of High Performance Computing (IHPC),123,0.079,0,3.40%
+IT,Internet,Tripadvisor,107,-17.70%,9,27.80%
+IT,Internet,Binance,104,0.677,220,12.00%
+IT,Internet,Twilio Inc.,100,0.667,22,11.20%
+IT,Internet,Delivery Hero,99,0.833,1,17.00%
+IT,Internet,honestbee,96,-5.90%,0,34.30%
+IT,Internet,GrabFood,95,0.301,0,21.40%
+IT,Internet,Hmlet,94,-16.80%,0,41.50%
+IT,Internet,Akamai Technologies,93,-8.80%,6,17.40%
+IT,Internet,Upwork,91,0.058,5,15.80%
+IT,Internet,hoolah,79,2.95,38,16.20%
+IT,Internet,Livspace,79,0.013,29,38.20%
+IT,Internet,Rakuten Viki,78,0.114,5,17.60%
+IT,Internet,BandLab Technologies,74,-12.90%,11,25.20%
+IT,Internet,MoneySmart Group,73,0.074,12,39.70%
+IT,Internet,Chope,71,-14.50%,2,31.20%
+IT,Internet,Traveloka,71,-53.60%,7,85.70%
+IT,Internet,Rakuten,69,0.00%,0,15.90%
+IT,Internet,IAB Southeast Asia and India,67,0.031,0,31.80%
+IT,Internet,eBay,66,0.00%,1,13.60%
+IT,Internet,Criteo,66,-14.30%,3,18.20%
+IT,Internet,Twitch,65,1.097,8,6.30%
+IT,Internet,The Trade Desk,62,0.033,7,11.50%
+IT,Internet,Coda Payments,61,1.033,17,8.80%
+IT,Internet,99.co,61,0.017,17,28.10%
+IT,Internet,Castlery,60,0.176,28,9.00%
+IT,Internet,Skyscanner,59,-52.40%,0,76.50%
+IT,Internet,BIGO,55,0.122,0,21.20%
+IT,Internet,sgCarMart | SGCM Pte Ltd,55,0.122,1,1.90%
+IT,Internet,Alibaba Cloud,54,0.2,2,14.10%
+IT,Internet,Yahoo,54,-8.50%,0,8.80%
+IT,Internet,Zilingo,53,-47.50%,1,74.00%
+IT,Internet,Synagie,53,0.656,3,25.90%
+IT,Internet,Expereo,52,0.13,1,14.30%
+IT,Internet,Lalamove,51,0.133,19,31.30%
+IT,Internet,Fiverr,49,0.256,0,13.60%
+IT,Internet,Convertium,49,-2.00%,4,14.10%
+IT,Internet,Style Theory,49,-39.50%,1,70.80%
+IT,Internet,XA Network,47,0.621,1,0.00%
+IT,Internet,GoBear,45,-32.80%,0,62.50%
+IT,Internet,Primary School,45,0.00%,0,0.00%
+IT,Internet,Alibaba.com,44,0.128,0,4.80%
+IT,Internet,Grain,43,-32.80%,9,56.10%
+IT,Internet,Pacific Internet,43,-2.30%,0,4.60%
+IT,Internet,ezbuy,42,-8.70%,0,50.00%
+IT,Internet,Storms,40,1.105,1,10.20%
+IT,Internet,Vintedge,39,0.147,1,5.50%
+IT,Internet,Braze,37,1.313,8,3.80%
+IT,Internet,SESAMi (Singapore) Pte Ltd,37,0.00%,3,5.40%
+IT,Internet,Verizon Media,36,-2.70%,2,8.20%
+IT,Internet,eGENTIC Asia Pacific Pte Ltd,35,0.00%,0,17.10%
+IT,Internet,Shopify,35,0.522,1,10.30%
+IT,Internet,Shutterstock,35,0.061,4,2.90%
+IT,Internet,BCG Digital Ventures,34,0.133,9,28.10%
+IT,Internet,Oddle,33,0.375,7,14.00%
+IT,Internet,ADVANCE.AI,33,-10.80%,0,28.60%
+IT,Internet,Partipost,30,0.111,1,10.50%
+IT,Internet,Stealth Startup,30,3.286,0,5.40%
+IT,Internet,Insider.,30,0.304,1,7.50%
+IT,Internet,Beam,30,-14.30%,8,33.80%
+IT,Internet,Moovaz - Inspiring Freedom,29,0.45,0,32.70%
+IT,Internet,Lark,24,-17.20%,0,26.40%
+IT,Internet,BukuKas,7,,0,
+IT,Network Security,M.Tech,18,0.059,0,5.70%
+IT,Network Security,Grab,12,-29.40%,3,
+IT,Network Security,ST Engineering,11,-26.70%,0,
+IT,Network Security,PCS Security Pte Ltd,9,0.00%,0,
+IT,Network Security,Sea,7,0.00%,0,
+IT,Network Security,IHiS (Integrated Health Information Systems),6,0.00%,0,
+IT,Network Security,"Check Point Software Technologies, Ltd.",6,0.5,0,
+IT,Network Security,Proficio,6,0.00%,0,
+IT,Network Security,Singtel,5,0.25,0,
+IT,Network Security,Tindo,5,0.00%,0,
+IT,Network Security,NCS Group,4,0.00%,0,
+IT,Network Security,Zendesk,4,1,0,
+IT,Network Security,UL,4,0.00%,0,
+IT,Network Security,IBM,4,0.00%,0,
+IT,Network Security,Inventivo Pte Ltd,4,0.333,0,
+IT,Network Security,SecureCraft Asia,4,1,0,
+IT,Network Security,NTT Ltd.,4,-55.60%,0,
+IT,Network Security,Apple,4,0.333,0,
+IT,Network Security,DBS Bank,3,-40.00%,0,
+IT,Network Security,Evvo Labs Pte Ltd,3,2,0,
+IT,Network Security,Funding Societies Singapore,3,2,0,
+IT,Network Security,PayPal,3,0.5,1,
+IT,Network Security,Securonix,3,2,0,
+IT,Network Security,Standard Chartered Bank,3,2,0,
+IT,Network Security,F5,3,0.00%,0,
+IT,Network Security,Stone Forest,3,0.00%,0,
+IT,Network Security,NEC Asia Pacific Pte Ltd,3,0.00%,0,
+IT,Network Security,Roche,3,0.00%,0,
+IT,Network Security,SECOM Plc,2,1,0,
+IT,Network Security,Manulife,2,0.00%,2,
+IT,Network Security,Centre for Strategic Infocomm Technologies (CSIT),2,0.00%,0,
+IT,Network Security,Seagate Technology,2,1,0,
+IT,Network Security,Keysight Technologies,2,-50.00%,0,
+IT,Network Security,PCCW Solutions Limited,2,0.00%,0,
+IT,Network Security,Quann,2,0.00%,0,
+IT,Network Security,Bayer,2,-33.30%,0,
+IT,Network Security,ByteDance,2,0.00%,0,
+IT,Network Security,AsiaCloud Solutions Private Limited,2,0.00%,0,
+IT,Network Security,Singapore Press Holdings,2,0.00%,0,
+IT,Network Security,Symantec,2,-33.30%,0,
+IT,Network Security,Cloudflare,2,,0,
+IT,Network Security,Infosys Compaz Pte Ltd,2,,0,
+IT,Network Security,SP Group,2,0.00%,0,
+IT,Network Security,CPF Board,2,1,0,
+IT,Network Security,Dimension Data,2,0.00%,0,
+IT,Network Security,Ultimate Software,2,0.00%,2,
+IT,Network Security,Cisco,2,1,0,
+IT,Network Security,GovTech Singapore,2,0.00%,1,
+IT,Network Security,Dyson,2,1,0,
+IT,Network Security,Fujitsu Asia,2,0.00%,0,
+IT,Network Security,Tenable,2,0.00%,1,
+IT,Network Security,Vanguard Logistics Services,1,0.00%,0,
+IT,Network Security,Acclivis Technologies and Solutions,1,-50.00%,0,
+IT,Network Security,Synopsys Inc,1,0.00%,0,
+IT,Network Security,GIC,1,0.00%,0,
+IT,Network Security,Twilio Inc.,1,,0,
+IT,Network Security,Frontline Systems,1,0.00%,0,
+IT,Network Security,iSTOX,1,,0,
+IT,Network Security,Accellion,1,0.00%,0,
+IT,Network Security,MyRepublic,1,0.00%,0,
+IT,Network Security,Gojek,1,,0,
+IT,Network Security,Hyflux Ltd,1,0.00%,0,
+IT,Network Security,Norges Bank Investment Management,1,,0,
+IT,Network Security,Horangi Cyber Security,1,,0,
+IT,Network Security,Deutsche Bank,1,0.00%,0,
+IT,Network Security,Netpoleon Solutions Pte Ltd,1,,0,
+IT,Network Security,Yokogawa,1,0.00%,0,
+IT,Network Security,Keppel Corporation Limited,1,0.00%,0,
+IT,Network Security,MtecH,1,,0,
+IT,Network Security,Procter & Gamble,1,0.00%,0,
+IT,Network Security,SAP,1,0.00%,0,
+IT,Network Security,Wipro Limited,1,0.00%,0,
+IT,Network Security,Orange Business Services,1,0.00%,0,
+IT,Network Security,Orange,1,0.00%,0,
+IT,Network Security,Edenred,1,0.00%,0,
+IT,Network Security,Sopra Steria,1,,0,
+IT,Network Security,Thunes,1,0.00%,0,
+IT,Network Security,Amnet Technology Pte Ltd,1,0.00%,0,
+IT,Network Security,ST ELECTRONICS LTD,1,,0,
+IT,Network Security,Citi,1,0.00%,0,
+IT,Network Security,Tencent,1,,0,
+IT,Network Security,Ensign InfoSecurity,1,-50.00%,1,
+IT,Network Security,"Secom Trust Systems Co.,Ltd.",1,0.00%,0,
+IT,Network Security,Maybank,1,0.00%,0,
+IT,Network Security,Continental,1,0.00%,0,
+IT,Network Security,Traveloka,1,-50.00%,0,
+IT,Network Security,Checkbox.ai,1,0.00%,0,
+IT,Network Security,Desay SV Automotive,1,0.00%,0,
+IT,Network Security,Po,1,0.00%,0,
+IT,Network Security,Facebook,1,,0,
+IT,Network Security,Monetary Authority of Singapore (MAS),1,,0,
+IT,Network Security,Ministry of Defence of Singapore,1,0.00%,0,
+IT,Network Security,TD,1,,0,
+IT,Network Security,Singapore University of Social Sciences (SUSS),1,,0,
+IT,Network Security,Verizon Business,1,0.00%,0,
+IT,Network Security,Classified,1,0.00%,0,
+IT,Network Security,HP,1,0.00%,0,
+IT,Network Security,LGA Telecom Pte Ltd,1,0.00%,0,
+IT,Network Security,Undisclosed,1,0.00%,0,
+IT,Network Security,eShard,1,0.00%,0,
+IT,Database Management,NCS Group,492,0.034,1,15.70%
+IT,Database Management,Standard Chartered Bank,425,0.029,0,6.20%
+IT,Database Management,IBM,370,-7.00%,1,16.40%
+IT,Database Management,DBS Bank,369,0.014,17,7.90%
+IT,Database Management,Amazon Web Services (AWS),338,0.234,19,12.10%
+IT,Database Management,Citi,336,-1.20%,6,6.80%
+IT,Database Management,Singtel,322,-6.90%,8,18.30%
+IT,Database Management,Microsoft,255,0.128,11,7.10%
+IT,Database Management,Cisco,251,-7.40%,4,11.50%
+IT,Database Management,UOB,234,-2.10%,11,12.70%
+IT,Database Management,IHiS (Integrated Health Information Systems),221,0.116,0,12.40%
+IT,Database Management,GovTech Singapore,200,0.087,13,12.00%
+IT,Database Management,Hewlett Packard Enterprise,196,-7.50%,3,11.80%
+IT,Database Management,NTT Ltd.,195,-14.10%,15,26.10%
+IT,Database Management,Dell EMC,184,-9.80%,0,11.30%
+IT,Database Management,Equinix,177,0.079,2,7.00%
+IT,Database Management,Oracle,171,-10.90%,2,18.70%
+IT,Database Management,Accenture,160,-9.10%,0,23.20%
+IT,Database Management,OCBC Bank,159,0.019,4,8.30%
+IT,Database Management,Dell Technologies,158,0.026,5,8.30%
+IT,Database Management,JPMorgan Chase & Co.,155,0.006,1,3.90%
+IT,Database Management,VMware,154,-3.80%,6,15.30%
+IT,Database Management,Credit Suisse,153,0.034,0,4.00%
+IT,Database Management,Google,143,0.117,12,6.60%
+IT,Database Management,Visa,136,-2.20%,0,4.40%
+IT,Database Management,Cognizant,126,0.016,3,6.40%
+IT,Database Management,HCL Technologies,117,-0.80%,1,6.00%
+IT,Database Management,Tata Consultancy Services,111,-0.90%,1,5.40%
+IT,Database Management,StarHub,110,-11.30%,0,18.80%
+IT,Database Management,SAP,109,-1.80%,0,4.50%
+IT,Database Management,ST Engineering,104,-14.00%,1,22.20%
+IT,Database Management,UBS,98,0.065,1,3.20%
+IT,Database Management,HP,94,-3.10%,0,4.20%
+IT,Database Management,Schneider Electric,89,-4.30%,4,7.70%
+IT,Database Management,DXC Technology,86,-16.50%,2,24.30%
+IT,Database Management,Wipro Limited,84,-1.20%,1,4.70%
+IT,Database Management,NEC Asia Pacific Pte Ltd,82,-2.40%,0,10.80%
+IT,Database Management,PCCW Solutions Limited,78,0.114,0,20.30%
+IT,Database Management,Deutsche Bank,74,-1.30%,0,6.70%
+IT,Database Management,Grab,73,-13.10%,2,22.90%
+IT,Database Management,Dimension Data,69,-18.80%,0,22.10%
+IT,Database Management,Salesforce,68,-4.20%,2,18.70%
+IT,Database Management,Facebook,64,0.016,7,7.90%
+IT,Database Management,GIC,64,0.016,0,14.20%
+IT,Database Management,BT,62,-16.20%,0,19.10%
+IT,Database Management,Bank of America Merrill Lynch,61,-4.70%,0,4.80%
+IT,Database Management,Infosys,60,0.017,3,5.00%
+IT,Database Management,Telstra,59,-7.80%,0,19.50%
+IT,Database Management,Hitachi Vantara,58,-9.40%,4,21.30%
+IT,Database Management,Crédit Agricole CIB,58,0.036,0,1.80%
+IT,Database Management,F5,57,0.056,3,3.60%
+IT,Database Management,"Bank of Singapore, Asia's Global Private Bank",56,0.057,2,5.50%
+IT,Database Management,CBRE,55,0.019,0,20.20%
+IT,Database Management,Fujitsu Asia,53,0.06,0,3.90%
+IT,Database Management,Bank of America,53,0.06,0,0.00%
+IT,Database Management,Huawei,53,0.00%,0,18.90%
+IT,Database Management,Orange Business Services,53,0.00%,0,3.80%
+IT,Database Management,Johnson & Johnson,53,0.104,0,11.90%
+IT,Database Management,BNP Paribas,52,-11.90%,0,16.20%
+IT,Database Management,AT&T,52,-11.90%,0,14.40%
+IT,Database Management,Apple,51,0.085,0,6.10%
+IT,Database Management,Palo Alto Networks,50,-2.00%,1,13.90%
+IT,Database Management,EY,50,-20.60%,3,35.40%
+IT,Database Management,ST Telemedia Global Data Centres,48,0.116,0,8.80%
+IT,Database Management,Micron Technology,46,-6.10%,11,16.80%
+IT,Database Management,JLL,46,-2.10%,9,6.50%
+IT,Database Management,Keppel Data Centres,46,0.07,1,20.20%
+IT,Database Management,"Optimum Solutions (S) Pte Ltd, Singapore",45,-8.20%,0,17.00%
+IT,Database Management,Marina Bay Sands,45,0.00%,1,8.90%
+IT,Database Management,M1 Limited,45,-11.80%,4,25.00%
+IT,Database Management,Tech Mahindra,45,0.00%,0,15.60%
+IT,Database Management,Lumen Technologies,43,0.483,0,8.30%
+IT,Database Management,Teradata,43,0.00%,0,9.30%
+IT,Database Management,National University of Singapore,43,0.303,3,7.90%
+IT,Database Management,CapitaLand,42,-8.70%,4,13.60%
+IT,Database Management,Nokia,42,0.024,3,2.40%
+IT,Database Management,Digital Realty,41,0.171,7,7.90%
+IT,Database Management,SAS,41,-4.70%,0,16.70%
+IT,Database Management,Equinix Asia-Pacific,41,0.206,17,8.00%
+IT,Database Management,GREAT EASTERN,40,0.176,4,10.80%
+IT,Database Management,Lazada,39,-15.20%,3,30.60%
+IT,Database Management,SITA,39,-17.00%,0,18.60%
+IT,Database Management,Fujitsu,39,-2.50%,0,12.70%
+IT,Database Management,Lenovo,39,0.026,1,7.80%
+IT,Database Management,MSD,38,0.027,2,2.70%
+IT,Database Management,Nutanix,37,-7.50%,1,15.60%
+IT,Database Management,Atos,37,0.121,0,0.00%
+IT,Database Management,MUFG,36,-2.70%,0,5.50%
+IT,Database Management,Autodesk,36,-5.30%,0,13.50%
+IT,Database Management,BlackRock,36,0.00%,1,5.60%
+IT,Database Management,Nanyang Technological University,35,-2.80%,8,11.30%
+IT,Database Management,NetApp,35,-2.80%,0,19.70%
+IT,Database Management,Sea,35,0.25,9,15.90%
+IT,Database Management,"A*STAR - Agency for Science, Technology and Research",34,0.214,3,0.00%
+IT,Database Management,Ensign InfoSecurity,34,0.063,1,18.20%
+IT,Database Management,Red Hat,33,0.1,1,19.00%
+IT,Database Management,Shopee,33,0.5,22,10.90%
+IT,Database Management,Singapore Management University,28,0.167,0,11.50%
+IT,Database Management,Intel Corporation,26,-7.10%,1,7.40%
+IT,Database Management,Aventis School of Management,1,0.00%,0,
+IT,CaaS,Cisco,24,-14.30%,0,19.20%
+IT,CaaS,Singtel,13,8.30%,0,
+IT,CaaS,NTT Ltd.,10,42.90%,0,
+IT,CaaS,Microsoft,9,28.60%,0,
+IT,CaaS,Amazon Web Services (AWS),9,-10.00%,0,
+IT,CaaS,BT,7,0.00%,0,
+IT,CaaS,NICE Ltd,7,16.70%,0,
+IT,CaaS,Tata Communications,6,0.00%,0,
+IT,CaaS,Akamai Technologies,6,20.00%,0,
+IT,CaaS,Nokia,6,20.00%,0,
+IT,CaaS,Salesforce,6,50.00%,0,
+IT,CaaS,Telstra,6,-25.00%,0,
+IT,CaaS,StarHub,6,-25.00%,0,
+IT,CaaS,Huawei,5,0.00%,0,
+IT,CaaS,Genesys,5,0.00%,0,
+IT,CaaS,Google,5,25.00%,0,
+IT,CaaS,Oracle,5,-16.70%,0,
+IT,CaaS,Vonage,5,25.00%,0,
+IT,CaaS,Verizon,5,0.00%,0,
+IT,CaaS,Avaya,5,-16.70%,0,
+IT,CaaS,Verizon Business,4,0.00%,0,
+IT,CaaS,Cloudflare,4,0.00%,0,
+IT,CaaS,"Aruba, a Hewlett Packard Enterprise company",4,33.30%,0,
+IT,CaaS,AudioCodes,4,0.00%,0,
+IT,CaaS,World Wide Technology,3,0.00%,0,
+IT,CaaS,F5,3,-25.00%,0,
+IT,CaaS,Jabra,3,0.00%,0,
+IT,CaaS,Equinix,3,0.00%,0,
+IT,CaaS,M1 Limited,3,0.00%,0,
+IT,CaaS,IR,3,-25.00%,0,
+IT,CaaS,Lenovo,3,0.00%,0,
+IT,CaaS,Arista Networks,3,0.00%,0,
+IT,CaaS,Dimension Data,3,-50.00%,0,
+IT,CaaS,ServiceNow,3,50.00%,0,
+IT,CaaS,VMware,3,-25.00%,0,
+IT,CaaS,LinkedIn,3,50.00%,0,
+IT,CaaS,SAP,3,-25.00%,0,
+IT,CaaS,Orange Business Services,3,0.00%,0,
+IT,CaaS,Zoom,2,0.00%,0,
+IT,CaaS,Splunk,2,100.00%,0,
+IT,CaaS,Sinch,2,,0,
+IT,CaaS,Dell EMC,2,-33.30%,0,
+IT,CaaS,IBM,2,-60.00%,0,
+IT,CaaS,Fujitsu,2,0.00%,0,
+IT,CaaS,"Check Point Software Technologies, Ltd.",2,100.00%,0,
+IT,CaaS,Equinix Asia-Pacific,2,100.00%,0,
+IT,CaaS,BSO,2,0.00%,0,
+IT,CaaS,ISACA,2,100.00%,0,
+IT,CaaS,AIA,2,0.00%,0,
+IT,CaaS,Arkadin,2,0.00%,0,
+IT,CaaS,Vodafone Business,2,-33.30%,0,
+IT,CaaS,Westcon-Comstor Asia,2,0.00%,0,
+IT,CaaS,Pexip,2,100.00%,0,
+IT,CaaS,Verint,2,-33.30%,0,
+IT,CaaS,Logicalis Asia,2,0.00%,0,
+IT,CaaS,NCS Group,2,100.00%,0,
+IT,CaaS,Twilio Inc.,2,0.00%,0,
+IT,CaaS,Zendesk,2,100.00%,0,
+IT,CaaS,SoftwareONE,1,0.00%,0,
+IT,CaaS,Amdocs,1,0.00%,0,
+IT,CaaS,IDC Asia/Pacific | ANALYZE THE FUTURE,1,0.00%,0,
+IT,CaaS,Acronis,1,0.00%,0,
+IT,CaaS,MyRepublic,1,0.00%,0,
+IT,CaaS,stc pay,1,,0,
+IT,CaaS,AirAsia,1,0.00%,0,
+IT,CaaS,Opengear,1,,0,
+IT,CaaS,DTEN,1,,0,
+IT,CaaS,OSIsoft,1,0.00%,0,
+IT,CaaS,Temasys,1,,0,
+IT,CaaS,Riverbed Technology,1,0.00%,0,
+IT,CaaS,Syniverse,1,0.00%,0,
+IT,CaaS,Camilyo,1,0.00%,0,
+IT,CaaS,Rackspace Technology,1,0.00%,0,
+IT,CaaS,PGi,1,-50.00%,0,
+IT,CaaS,IMDA,1,0.00%,0,
+IT,CaaS,SAP Customer Experience,1,0.00%,0,
+IT,CaaS,HERE Technologies,1,0.00%,0,
+IT,CaaS,Alcatel-Lucent Enterprise,1,-50.00%,0,
+IT,CaaS,hoolah,1,0.00%,0,
+IT,CaaS,Entrepreneur First,1,0.00%,0,
+IT,CaaS,Global Impact FinTech (GIFT) Forum,1,0.00%,0,
+IT,CaaS,Infinera,1,0.00%,0,
+IT,CaaS,Greensill,1,0.00%,0,
+IT,CaaS,China Mobile International Limited,1,0.00%,0,
+IT,CaaS,Toku,1,,0,
+IT,CaaS,Accelerating Asia,1,0.00%,0,
+IT,CaaS,Kemp,1,0.00%,0,
+IT,CaaS,Wavemaker Partners,1,0.00%,0,
+IT,CaaS,8x8,1,,0,
+IT,CaaS,Poly,1,-66.70%,0,
+IT,CaaS,Informatics Academy Pte Ltd,1,,0,
+IT,CaaS,Avado,1,0.00%,0,
+IT,CaaS,SGTech,1,0.00%,0,
+IT,CaaS,Alveo Technology,1,,0,
+IT,CaaS,Gushcloud International,1,,0,
+IT,CaaS,NTUC Club,1,0.00%,0,
+IT,CaaS,TechDirect,1,0.00%,0,
+IT,CaaS,SpaceDC,1,0.00%,0,
+IT,CaaS,CapitaLand,1,0.00%,0,
+IT,CaaS,MoEngage Inc.,1,,0,
